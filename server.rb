@@ -1,6 +1,6 @@
 # encoding: UTF-8
-require 'json'
 require 'sinatra'
+require 'json'
 
 get '/teams' do
   content_type :json
