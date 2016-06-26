@@ -19,7 +19,11 @@ get '/teams' do
                         "marketValue":"163,100,000 €",
                         "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/lyon.png"},
                         {
-
+                          "name":"AS Monaco FC",
+                          "code":"MON",
+                          "shortName":"Monaco",
+                          "marketValue":"147,100,000 €",
+                          "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/monaco.png"
                         }
                       ]}.to_json
 end
