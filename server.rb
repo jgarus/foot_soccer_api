@@ -30,7 +30,7 @@ get '/teams' do
                           "code":"MAR",
                           "shortName":"Marseille",
                           "marketValue":"131,600,000 €",
-                          "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/marsille.png"
+                          "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/marseille.png"
                         },
                         {
                           "name":"AS Saint-Étienne",
