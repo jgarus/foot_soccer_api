@@ -2,17 +2,28 @@
 require 'sinatra'
 require 'json'
 
+set :public_folder, 'public'
+
 get '/teams' do
   content_type :json
-  File.read(File.join('public', 'lille.jpg'))
-  jsonArr = {"teams":[{"name":"OSC Lille", "code":"OSC",
-                        "shortName":"Lille", "marketValue":"67,700,000 e",
-                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/lille.jpg"},
-                      {"name":"Paris Saint Germain", "code":"PSG",
-                        "shortName":"PSG", "marketValue":"408,550,000 e",
-                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/psg.png"}]}.to_json
+  jsonArr = {"teams":[{
+                        "name":"Paris Saint Germain",
+                        "code":"PSG",
+                        "shortName":"PSG",
+                        "marketValue":"408,550,000 e",
+                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/ligue_1/psg.png"},
+                      {
+                        "name":"Olympique Lyonnais",
+                        "code":"OLY",
+                        "shortName":"Lyon",
+                        "marketValue":"163,100,000 €",
+                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/ligue_1/lyon.png"},
+                        {
+
+                        }
+                      ]}.to_json
 end
 
 get '/:filename' do
-  File.read(File.join('public', 'lille.jpg'))
+  redirect 'images/clubs/league_1/'
 end

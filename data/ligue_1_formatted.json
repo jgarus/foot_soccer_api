@@ -1,0 +1,373 @@
+{
+   "_links":{
+      "self":{
+         "href":"http://api.football-data.org/v1/soccerseasons/396/fixtures"
+      },
+      "soccerseason":{
+         "href":"http://api.football-data.org/v1/soccerseasons/396"
+      }
+   },
+   "count":20,
+   "teams":[
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/521"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/521/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/521/players"
+            }
+         },
+         "name":"OSC Lille",
+         "code":"OSC",
+         "shortName":"Lille",
+         "squadMarketValue":"67,700,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/0/08/LOSC_Lille_Crest_2012.png"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/524"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/524/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/524/players"
+            }
+         },
+         "name":"Paris Saint-Germain",
+         "code":"PSG",
+         "shortName":"PSG",
+         "squadMarketValue":"408,550,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/1/1e/Paris_Saint-Germain_(seit_2013).gif"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/531"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/531/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/531/players"
+            }
+         },
+         "name":"ES Troyes AC",
+         "code":null,
+         "shortName":"Troyes",
+         "squadMarketValue":"23,500,000 €",
+         "crestUrl":"https://upload.wikimedia.org/wikipedia/fr/b/bf/ES_Troyes_AC.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/555"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/555/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/555/players"
+            }
+         },
+         "name":"Gazélec Ajaccio",
+         "code":null,
+         "shortName":"Ajaccio",
+         "squadMarketValue":"12,550,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/en/4/46/Gazélec_Ajaccio_logo.png"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/516"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/516/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/516/players"
+            }
+         },
+         "name":"Olympique de Marseille",
+         "code":"MAR",
+         "shortName":"Marseille",
+         "squadMarketValue":"131,600,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/514"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/514/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/514/players"
+            }
+         },
+         "name":"SM Caen",
+         "code":"SMC",
+         "shortName":"Caen",
+         "squadMarketValue":"27,700,000 €",
+         "crestUrl":"https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/522"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/522/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/522/players"
+            }
+         },
+         "name":"OGC Nice",
+         "code":"NIC",
+         "shortName":"Nice",
+         "squadMarketValue":"46,550,000 €",
+         "crestUrl":"https://upload.wikimedia.org/wikipedia/en/0/05/OGC_Nice_logo.png"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/548"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/548/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/548/players"
+            }
+         },
+         "name":"AS Monaco FC",
+         "code":"MON",
+         "shortName":"Monaco",
+         "squadMarketValue":"147,100,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/543"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/543/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/543/players"
+            }
+         },
+         "name":"FC Nantes",
+         "code":"NAN",
+         "shortName":"Nantes",
+         "squadMarketValue":"31,050,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/5/50/FC_Nantes_(seit_2008).svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/538"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/538/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/538/players"
+            }
+         },
+         "name":"EA Guingamp",
+         "code":"GUI",
+         "shortName":"Guingamp",
+         "squadMarketValue":"32,250,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/a/ae/EA_Guingamp_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/518"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/518/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/518/players"
+            }
+         },
+         "name":"Montpellier Hérault SC",
+         "code":"MON",
+         "shortName":"Montpellier",
+         "squadMarketValue":"42,250,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/3/35/HSC_Montpellier_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/532"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/532/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/532/players"
+            }
+         },
+         "name":"Angers SCO",
+         "code":null,
+         "shortName":"Angers",
+         "squadMarketValue":"19,350,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/536"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/536/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/536/players"
+            }
+         },
+         "name":"SC Bastia",
+         "code":"SCB",
+         "shortName":"Bastia",
+         "squadMarketValue":"21,400,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/6/69/SC_Bastia.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/529"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/529/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/529/players"
+            }
+         },
+         "name":"Stade Rennais FC",
+         "code":"REN",
+         "shortName":"Rennes",
+         "squadMarketValue":"68,600,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/526"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/526/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/526/players"
+            }
+         },
+         "name":"FC Girondins de Bordeaux",
+         "code":"BOR",
+         "shortName":"Bordeaux",
+         "squadMarketValue":"77,950,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/547"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/547/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/547/players"
+            }
+         },
+         "name":"Stade de Reims",
+         "code":"REI",
+         "shortName":"Reims",
+         "squadMarketValue":"44,700,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/9/9e/Stade_Reims_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/511"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/511/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/511/players"
+            }
+         },
+         "name":"Toulouse FC",
+         "code":"TOU",
+         "shortName":"Toulouse",
+         "squadMarketValue":"41,300,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/527"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/527/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/527/players"
+            }
+         },
+         "name":"AS Saint-Étienne",
+         "code":"ETI",
+         "shortName":"St. Etienne",
+         "squadMarketValue":"84,700,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/b/b1/AS_Saint-Etienne_(aktuell).svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/523"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/523/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/523/players"
+            }
+         },
+         "name":"Olympique Lyonnais",
+         "code":"OLY",
+         "shortName":"Lyon",
+         "squadMarketValue":"163,100,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg"
+      },
+      {
+         "_links":{
+            "self":{
+               "href":"http://api.football-data.org/v1/teams/525"
+            },
+            "fixtures":{
+               "href":"http://api.football-data.org/v1/teams/525/fixtures"
+            },
+            "players":{
+               "href":"http://api.football-data.org/v1/teams/525/players"
+            }
+         },
+         "name":"FC Lorient",
+         "code":"LOR",
+         "shortName":"Lorient",
+         "squadMarketValue":"45,700,000 €",
+         "crestUrl":"http://upload.wikimedia.org/wikipedia/de/c/c4/FC_Lorient_neu.png"
+      }
+   ]
+}
