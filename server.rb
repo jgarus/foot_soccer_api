@@ -11,13 +11,13 @@ get '/teams' do
                         "code":"PSG",
                         "shortName":"PSG",
                         "marketValue":"408,550,000 e",
-                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/ligue_1/psg.png"},
+                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/psg.png"},
                       {
                         "name":"Olympique Lyonnais",
                         "code":"OLY",
                         "shortName":"Lyon",
                         "marketValue":"163,100,000 €",
-                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/ligue_1/lyon.png"},
+                        "imgUrl":"https://dry-harbor-40455.herokuapp.com/images/clubs/league_1/lyon.png"},
                         {
 
                         }
