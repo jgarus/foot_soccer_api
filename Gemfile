@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'sinatra'
+gem 'multi_json'
+gem 'yajl-ruby'
+ruby '2.3.0'
