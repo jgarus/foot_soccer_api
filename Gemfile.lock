@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     multi_json (1.12.1)
+    puma (3.4.0)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -18,6 +19,7 @@ PLATFORMS
 
 DEPENDENCIES
   multi_json
+  puma
   sinatra
   yajl-ruby
 
