@@ -7,10 +7,11 @@ MultiJson.engine = :yajl
 set :public_folder, 'public'
 
 get '/teams' do
-   content_type :json
-   json = File.read('data/league_1.json')
+  content_type :json
+  File.read('data/json/teams/league_1/league_1.json')
 end
 
- ## get '/:filename' do
-  ## redirect 'images/clubs/league_1/'
- ## end
+get '/leagues' do
+  content_type :json
+  File.read('data/leagues/leagues.json')
+end
