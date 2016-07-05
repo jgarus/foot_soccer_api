@@ -2,7 +2,7 @@
 require 'sinatra'
 require 'json'
 
-set :public_folder, 'public'
+## set :public_folder, 'public'
 
 get '/teams' do
   content_type :json
@@ -126,6 +126,6 @@ get '/teams' do
                       ]}.to_json
 end
 
-get '/:filename' do
-  redirect 'images/clubs/league_1/'
-end
+ ## get '/:filename' do
+  ## redirect 'images/clubs/league_1/'
+ ## end
