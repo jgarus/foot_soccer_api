@@ -3,8 +3,12 @@ require 'sinatra'
 require 'multi_json'
 
 MultiJson.engine = :yajl
-
 set :public_folder, 'public'
+set :protection, :except => [:json_csrf]
+
+get '/' do
+  erb :index
+end
 
 get '/teams' do
   content_type :json
