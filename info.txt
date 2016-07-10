@@ -17,4 +17,4 @@ The second line tells rack to run the Sinatra app, which will run my server.rb
 
 
 That's it, these other files were created to help with some warnings, mainly
-on windows systems. 
+on windows systems.
