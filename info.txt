@@ -1,0 +1,20 @@
+For my own information: How I built this API:
+
+First, I created my .rb file.  In the file I require the gems Sinatra, and
+multi_json.
+
+Next, I made the Gemfile in which I specify the Ruby version to use as well as
+the gems being used.
+
+After this is all done, I needed to bundle install, which generates my
+Gemfile.lock
+
+Once this is all done, I needed to deploy the app onto Heroku.
+
+For this I needed a config.ru (rack up). Easy and standard configuration
+The first line helps load Rubygems, Sinatra, pretty much all of what we need.
+The second line tells rack to run the Sinatra app, which will run my server.rb
+
+
+That's it, these other files were created to help with some warnings, mainly
+on windows systems. 
