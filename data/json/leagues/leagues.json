@@ -1,1 +1,46 @@
-﻿
+{
+  "leagues":[
+    {
+      "leagueName":"Bundesliga",
+      "country":"Germany",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/bundesliga.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/germany.png"
+    },
+    {
+      "leagueName":"Premier League",
+      "country":"England",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/premier.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/englad.png"
+    },
+    {
+      "leagueName":"Liga MX",
+      "country":"Mexico",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/liga_mx.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/mexico.png"
+    },
+    {
+      "leagueName":"Ligue 1",
+      "country":"France",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/ligue_1.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/france.png"
+    },
+    {
+      "leagueName":"LaLiga",
+      "country":"Spain",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/laliga.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/spain.png"
+    },
+    {
+      "leagueName":"Serie A",
+      "country":"Italy",
+      "leagueIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/serie_a.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/italy.png"
+    },
+    {
+      "leageName":"Primeira Liga",
+      "country":"Portugal",
+      "leageIcon":"https://dry-harbor-40455.herokuapp.com/images/leagues/primeira_liga.png",
+      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/portugal.png"
+    }
+  ]
+}
