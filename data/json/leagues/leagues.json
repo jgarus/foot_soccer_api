@@ -44,7 +44,7 @@
       },
       {
          "leagueID":"7",
-         "leageName":"Primeira Liga",
+         "leagueName":"Primeira Liga",
          "country":"Portugal",
          "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/primeira_liga.png",
          "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/portugal.png"
