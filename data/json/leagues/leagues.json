@@ -2,31 +2,31 @@
    "leagues":[
       {
          "leagueID":"1",
+         "leagueName":"Ligue 1",
+         "country":"France",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/ligue_1.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/france.png"
+      },
+      {
+         "leagueID":"2",
          "leagueName":"Bundesliga",
          "country":"Germany",
          "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/bundesliga.png",
          "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/germany.png"
       },
       {
-         "leagueID":"2",
+         "leagueID":"3",
          "leagueName":"Premier League",
          "country":"England",
          "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/premier.png",
          "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/england.png"
       },
       {
-         "leagueID":"3",
+         "leagueID":"4",
          "leagueName":"Liga MX",
          "country":"Mexico",
          "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/liga_mx.png",
          "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/mexico.png"
-      },
-      {
-         "leagueID":"4",
-         "leagueName":"Ligue 1",
-         "country":"France",
-         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/ligue_1.png",
-         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/france.png"
       },
       {
          "leagueID":"5",
