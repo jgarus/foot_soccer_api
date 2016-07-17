@@ -1,53 +1,53 @@
 {
-  "leagues":[
-    {
-      "leagueID":"1",
-      "leagueName":"Bundesliga",
-      "country":"Germany",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/bundesliga.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/germany.png"
-    },
-    {
-      "leagueID":"2",
-      "leagueName":"Premier League",
-      "country":"England",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/premier.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/england.png"
-    },
-    {
-      "leagueID":"3",
-      "leagueName":"Liga MX",
-      "country":"Mexico",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/liga_mx.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/mexico.png"
-    },
-    {
-      "leagueID":"4",
-      "leagueName":"Ligue 1",
-      "country":"France",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/ligue_1.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/france.png"
-    },
-    {
-      "leagueID":"5",
-      "leagueName":"LaLiga",
-      "country":"Spain",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/laliga.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/spain.png"
-    },
-    {
-      "leagueID":"6",
-      "leagueName":"Serie A",
-      "country":"Italy",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/serie_a.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/italy.png"
-    },
-    {
-      "leagueID":"7",
-      "leageName":"Primeira Liga",
-      "country":"Portugal",
-      "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/primeira_liga.png",
-      "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/portugal.png"
-    }
-  ]
+   "leagues":[
+      {
+         "leagueID":"1",
+         "leagueName":"Bundesliga",
+         "country":"Germany",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/bundesliga.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/germany.png"
+      },
+      {
+         "leagueID":"2",
+         "leagueName":"Premier League",
+         "country":"England",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/premier.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/england.png"
+      },
+      {
+         "leagueID":"3",
+         "leagueName":"Liga MX",
+         "country":"Mexico",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/liga_mx.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/mexico.png"
+      },
+      {
+         "leagueID":"4",
+         "leagueName":"Ligue 1",
+         "country":"France",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/ligue_1.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/france.png"
+      },
+      {
+         "leagueID":"5",
+         "leagueName":"LaLiga",
+         "country":"Spain",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/laliga.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/spain.png"
+      },
+      {
+         "leagueID":"6",
+         "leagueName":"Serie A",
+         "country":"Italy",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/serie_a.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/italy.png"
+      },
+      {
+         "leagueID":"7",
+         "leageName":"Primeira Liga",
+         "country":"Portugal",
+         "leagueLogo":"https://dry-harbor-40455.herokuapp.com/images/leagues/primeira_liga.png",
+         "countryFlag":"https://dry-harbor-40455.herokuapp.com/images/countries/portugal.png"
+      }
+   ]
 }
