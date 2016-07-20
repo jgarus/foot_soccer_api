@@ -10,7 +10,7 @@ set :protection, :except => [:json_csrf]
 
 
 get '/' do
-  erb :index
+  erb :'index.html'
 end
 
 # route to load the teams JSON data
