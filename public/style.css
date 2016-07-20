@@ -16,7 +16,7 @@ h1 {
 h2 {
   border-left: 1px solid #00828f;
   font-size: 20;
-  text-align: center;;
+  text-align: center;
   font-weight: lighter;
   padding-left: 20px;
 }
@@ -24,7 +24,7 @@ h2 {
 h3 {
   border-left: 1px solid #00828f;
   font-size: 20;
-  text-align: center;;
+  text-align: center;
   font-weight: lighter;
   padding-left: 20px;
 }
@@ -38,8 +38,8 @@ h4 {
 }
 
 a:link{
-  outline: 1px auto;
-    outline-color: #00828f;
+  outline: 1px solid;
+    outline-color: #0f0f0f0;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
@@ -49,7 +49,6 @@ a:link{
 a:hover, a:active {
   background-color: #00828f;
 }
-
 
 hr.style2 {
   border-top: 3px double #8c8b8b;
