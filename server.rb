@@ -18,6 +18,7 @@ get '/teams' do
   content_type :json
   logger.info "Loading team data..."
   File.read('data/json/teams/ligue_1/ligue_1.json')
+  File.read('data/json/teams/premier/premier.json')
 end
 
 # route to load the leagues JSON data
