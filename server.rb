@@ -14,17 +14,17 @@ get '/' do
 end
 
 # route to load the teams JSON data
-get '/teams/ligue_1' do
+get '/clubs/ligue_1' do
   content_type :json
-  logger.info "Loading Ligue 1 team data..."
-  File.read('data/json/teams/ligue_1/ligue_1.json')
+  logger.info "Loading Ligue 1 clubs data..."
+  File.read('data/json/clubs/ligue_1/ligue_1.json')
 end
 
 # route to load the teams JSON data
-get '/teams/premier' do
+get '/clubs/premier' do
   content_type :json
-  logger.info "Loading premier league team data..."
-  File.read('data/json/teams/premier/premier.json')
+  logger.info "Loading premier league clubs data..."
+  File.read('data/json/clubs/premier/premier.json')
 end
 
 # route to load the leagues JSON data
