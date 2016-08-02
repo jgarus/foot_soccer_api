@@ -1,0 +1,202 @@
+{
+   "clubs":[
+      {
+         "clubName":"FC Bayern München",
+         "clubCode":"BAY",
+         "shortClubName":"Bayern",
+         "marketValue":"582,150,000 €",
+         "points":"88",
+         "position":"1",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/bayern.png",
+         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Borussia Dortmund",
+        "clubCode":"DOR",
+        "shortClubName":"Dortmund",
+        "marketValue":"341,250,000 €",
+        "points":"78",
+        "position":"2",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/dortmund.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Bayer 04 Leverkusen",
+        "clubCode":"B04",
+        "shortClubName":"Leverkusen",
+        "marketValue":"250,800,000 €",
+        "points":"60",
+        "position":"3",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/leverkusen.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Borussia Mönchengladbach",
+        "clubCode":"MON",
+        "shortClubName":"Mönchengladbach",
+        "marketValue":"166,000,000 €",
+        "points":"55",
+        "position":"4",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"FC Schalke 04",
+        "clubCode":"S04",
+        "shortClubName":"Schalke",
+        "marketValue":"191,400,000 €",
+        "points":"52",
+        "position":"5",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"FSV Mainz 05",
+        "clubCode":"FSV",
+        "shortClubName":"Mainz 05",
+        "marketValue":"77,750,000 €",
+        "points":"50",
+        "position":"6",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Hertha BSC Berlin",
+        "clubCode":"BSC",
+        "shortClubName":"Hertha BSC",
+        "marketValue":"78,180,000 €",
+        "points":"50",
+        "position":"7",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Vfl Wolfsburg",
+        "clubCode":"VFL",
+        "shortClubName":"Wolfsburg",
+        "marketValue":"188,450,000 €",
+        "points":"45",
+        "position":"8",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"1. FC Köln",
+        "clubCode":"KOL",
+        "shortClubName":"FC Köln",
+        "marketValue":"73,850,000 €",
+        "points":"43",
+        "position":"9",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Hamburger SV",
+        "clubCode":"HAM",
+        "shortClubName":"Hamburger SV",
+        "marketValue":"76,200,000 €",
+        "points":"41",
+        "position":"10",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"FC Ingolstadt 04",
+        "clubCode":"I04",
+        "shortClubName":"FC Ingolstadt",
+        "marketValue":"33,200,000 €",
+        "points":"40",
+        "position":"11",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"FC Augsburg",
+        "clubCode":"AUG",
+        "shortClubName":"FC Augsburg",
+        "marketValue":"60,000,000 €",
+        "points":"38",
+        "position":"12",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"SV Werder Bremen",
+        "clubCode":"WER",
+        "shortClubName":"Werder Bremen",
+        "marketValue":"55,100,000 €",
+        "points":"38",
+        "position":"13",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"SV Darmstadt 98",
+        "clubCode":"DAR",
+        "shortClubName":"Darmstadt",
+        "marketValue":"19,650,000 €",
+        "points":"38",
+        "position":"14",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"TSG 1899 Hoffenheim",
+        "clubCode":"HOF",
+        "shortClubName":"Hoffenheim",
+        "marketValue":"90,080,000 €",
+        "points":"37",
+        "position":"15",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Eintracht Frankfurt",
+        "clubCode":"EIN",
+        "shortClubName":"Eintracht",
+        "marketValue":"56,250,000 €",
+        "points":"36",
+        "position":"16",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"VfB Stuttgart",
+        "clubCode":"VFB",
+        "shortClubName":"Stuttgart",
+        "marketValue":"34,600,000 €",
+        "points":"34",
+        "position":"17",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      },
+      {
+        "clubName":"Hannover 96",
+        "clubCode":"HAN",
+        "shortClubName":"Hannover",
+        "marketValue":"32,800,000 €",
+        "points":"34",
+        "position":"18",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
+        "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
+      }
+    ]
+  }
