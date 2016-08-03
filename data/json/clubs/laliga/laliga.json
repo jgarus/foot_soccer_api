@@ -1,0 +1,175 @@
+{
+  "clubs":[
+    {
+      "clubName":"FC Barcelona",
+      "clubCode":"BAR",
+      "shortClubName":"Barcelona",
+      "marketValue":"764,500,000 €",
+      "points":"91",
+      "position":"1",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/barcelona.png"
+    },
+    {
+      "clubName":"Real Madrid",
+      "clubCode":"MAD",
+      "shortClubName":"Real Madrdid",
+      "marketValue":"783,300,000 €",
+      "points":"90",
+      "position":"2",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/real_madrid.png"
+    },
+    {
+      "clubName":"Atlético Madrid",
+      "clubCode":"ATL",
+      "shortClubName":"Atlético Madrid",
+      "marketValue":"528,300,000 €",
+      "points":"88",
+      "position":"3",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/atletico_madrid.png"
+    },
+    {
+      "clubName":"Villarreal CF",
+      "clubCode":"VIL",
+      "shortClubName":"Villarreal",
+      "marketValue":"156,800,000 €",
+      "points":"64",
+      "position":"4",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/villarreal.png"
+    },
+    {
+      "clubName":"Athletic Club",
+      "clubCode":"ATH",
+      "shortClubName":"Athletic",
+      "marketValue":"149,400,000 €",
+      "points":"62",
+      "position":"5",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/athletic.png"
+    },
+    {
+      "clubName":"RC Celta de VIgo",
+      "clubCode":"CEL",
+      "shortClubName":"Celta Vigo",
+      "marketValue":"99,500,000 €",
+      "points":"60",
+      "position":"6",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/celta_vigo.png"
+    },
+    {
+      "clubName":"Sevilla FC",
+      "clubCode":"SEV",
+      "shortClubName":"Sevilla",
+      "marketValue":"211,900,000 €",
+      "points":"52",
+      "position":"7",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/sevilla.png"
+    },
+    {
+      "clubName":"Málaga CF",
+      "clubCode":"MAL",
+      "shortClubName":"Málaga",
+      "marketValue":"70,200,000 €",
+      "points":"48",
+      "position":"8",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/malaga.png"
+    },
+    {
+      "clubName":"Real Sociedad de Fútbol",
+      "clubCode":"SOC",
+      "shortClubName":"Real Sociedad",
+      "marketValue":"104,000,000 €",
+      "points":"48",
+      "position":"9",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/real_sociedad.png"
+    },
+    {
+      "clubName":"Real Betis Balompié",
+      "clubCode":"BET",
+      "shortClubName":"Betis",
+      "marketValue":"70,200,000 €",
+      "points":"48",
+      "position":"10",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/betis.png"
+    },
+    {
+      "clubName":"UD Las Palmas",
+      "clubCode":"PAL",
+      "shortClubName":"Las Palmas",
+      "marketValue":"48,200,000 €",
+      "points":"44",
+      "position":"11",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/las_palmas.png"
+    },
+    {
+      "clubName":"Velencia CF",
+      "clubCode":"VAL",
+      "shortClubName":"Valencia",
+      "marketValue":"189,200,000 €",
+      "points":"44",
+      "position":"12",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/malaga.png"
+    },
+    {
+      "clubName":"RCD Espanyol",
+      "clubCode":"ESP",
+      "shortClubName":"Espanyol",
+      "marketValue":"58,800,000 €",
+      "points":"43",
+      "position":"13",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/espanyol.png"
+    },
+    {
+      "clubName":"SD Eibar",
+      "clubCode":"EIB",
+      "shortClubName":"Eibar",
+      "marketValue":"45,500,000 €",
+      "points":"43",
+      "position":"14",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/eibar.png"
+    },
+    {
+      "clubName":"Granada CF",
+      "clubCode":"GRA",
+      "shortClubName":"Granada",
+      "marketValue":"37,700,000 €",
+      "points":"39",
+      "position":"16",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/granada.png"
+    },
+    {
+      "clubName":"Real Sporting de Gijón",
+      "clubCode":"GIJ",
+      "shortClubName":"Sporting de Gijón",
+      "marketValue":"39,800,000 €",
+      "points":"39",
+      "position":"17",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/gijon.png"
+    },
+    {
+      "clubName":"Rayo Vallecano",
+      "clubCode":"RAJ",
+      "shortClubName":"Rayo Vallecano",
+      "marketValue":"31,300,000 €",
+      "points":"38",
+      "position":"18",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/rayo_vallecano.png"
+    },
+    {
+      "clubName":"Getafe CF",
+      "clubCode":"GET",
+      "shortClubName":"Getafe",
+      "marketValue":"22,700,000 €",
+      "points":"36",
+      "position":"19",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/getafe.png"
+    },
+    {
+      "clubName":"Levante UD",
+      "clubCode":"LEV",
+      "shortClubName":"Levante",
+      "marketValue":"27,500,000 €",
+      "points":"32",
+      "position":"20",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/levante.png"
+    }
+  ]
+}

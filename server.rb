@@ -2,8 +2,6 @@
 require 'sinatra'
 require 'multi_json'
 
-
-
 MultiJson.engine = :yajl
 set :public_folder, 'public'
 set :protection, :except => [:json_csrf]
@@ -35,6 +33,7 @@ get '/leagues' do
 end
 
 
+# 304 Error FIx maybe
 def last_modified(time)
   return unless time
   time = time_for time
