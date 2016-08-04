@@ -1,5 +1,104 @@
 {
    "teams":[
+     {
+        "clubName":"Leicester City FC",
+        "clubCode":"LCF",
+        "shortClubName":"Leicester",
+        "marketValue":"198,100,000 €",
+        "points":"81",
+        "position":"1",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/leicester.png"
+     },
+     {
+        "clubName":"Arsenal FC",
+        "clubCode":"AFC",
+        "shortClubName":"Arsenal",
+        "marketValue":"495,500,000 €",
+        "points":"71",
+        "position":"2",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/arsenal.png"
+     },
+     {
+        "clubName":"Tottenham Hotspur FC",
+        "clubCode":"THF",
+        "shortClubName":"Tottenham",
+        "marketValue":"394,500,000 €",
+        "points":"70",
+        "position":"3",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/tottenham.png"
+     },
+     {
+        "clubName":"Manchester City FC",
+        "clubCode":"MCF",
+        "shortClubName":"Manchester City",
+        "marketValue":"561,500,000 €",
+        "points":"66",
+        "position":"4",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/manchester_city.png"
+     },
+     {
+        "clubName":"Manchester United FC",
+        "clubCode":"MUF",
+        "shortClubName":"Manchester United",
+        "marketValue":"484,750,000 €",
+        "points":"66",
+        "position":"5",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/manchester_united.png"
+     },
+     {
+        "clubName":"Southampton FC",
+        "clubCode":"SOU",
+        "shortClubName":"Southampton",
+        "marketValue":"186,250,000 €",
+        "points":"63",
+        "position":"6",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/southampton.png"
+     },
+     {
+        "clubName":"West Ham United FC",
+        "clubCode":"WHU",
+        "shortClubName":"West Ham",
+        "marketValue":"197,550,000 €",
+        "points":"62",
+        "position":"7",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/west_ham.png"
+     },
+     {
+        "clubName":"Liverpool FC",
+        "clubCode":"LFC",
+        "shortClubName":"Liverpool",
+        "marketValue":"446,200,000 €",
+        "points":"60",
+        "positioin":"8",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/liverpool.png"
+     },
+     {
+        "clubName":"Stoke City FC",
+        "clubCode":"SCF",
+        "shortClubName":"Stoke City",
+        "marketValue":"156,500,000 €",
+        "points":"51",
+        "position":"9",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/stoke.png"
+     },
+     {
+        "clubName":"Chelsea FC",
+        "clubCode":"CFC",
+        "shortClubName":"Chelsea",
+        "marketValue":"556,550,000 €",
+        "points":"50",
+        "position":"10",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/chelsea.png"
+     },
+     {
+        "clubName":"Everton FC",
+        "clubCode":"EFC",
+        "shortClubName":"Everton",
+        "marketValue":"247,500,000 €",
+        "points":"47",
+        "position":"11",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/everton.png"
+     },
       {
          "clubName":"Hull City FC",
          "clubCode":"HUL",
@@ -7,20 +106,9 @@
          "marketValue":"89,750,000 €",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/hull.png"
       },
-      {
-         "clubName":"Leicester City FC",
-         "clubCode":"LCFC",
-         "shortClubName":"Leicester",
-         "marketValue":"95,500,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/leicester.png"
-      },
-      {
-         "clubName":"Southampton FC",
-         "clubCode":"SFC",
-         "shortClubName":"Southampton",
-         "marketValue":"194,750,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/southampton.png"
-      },
+
+
+
       {
          "clubName":"Watford FC",
          "clubCode":"WFC",
@@ -35,27 +123,9 @@
          "marketValue":"81,600,000 €",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/middlesbrough.png"
       },
-      {
-         "clubName":"Stoke City FC",
-         "clubCode":"SCFC",
-         "shortClubName":"Stoke City",
-         "marketValue":"122,250,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/stoke.png"
-      },
-      {
-         "clubName":"Everton FC",
-         "clubCode":"EFC",
-         "shortClubName":"Everton",
-         "marketValue":"209,500,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/everton.png"
-      },
-      {
-         "clubName":"Tottenham Hotspur FC",
-         "clubCode":"THFC",
-         "shortClubName":"Spurs",
-         "marketValue":"278,000,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/tottenham.png"
-      },
+
+
+
       {
          "clubName":"Crystal Palace FC",
          "clubCode":"CPFC",
@@ -84,13 +154,7 @@
          "marketValue":"116,100,000 €",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/swansea.png"
       },
-      {
-         "clubName":"Manchester City FC",
-         "clubCode":"MCFC",
-         "shortClubName":"Man City",
-         "marketValue":"510,000,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/manchester_city.png"
-      },
+
       {
          "clubName":"Sunderland AFC",
          "clubCode":"SUN",
@@ -105,40 +169,5 @@
          "marketValue":"88,800,000 €",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/bournemouth.png"
       },
-      {
-         "clubName":"Manchester United FC",
-         "clubCode":"MUFC",
-         "shortClubName":"Manchester United",
-         "marketValue":"394,550,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/manchester_united.png"
-      },
-      {
-         "clubName":"Arsenal FC",
-         "clubCode":"AFC",
-         "shortClubName":"Arsenal",
-         "marketValue":"393,000,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/arsenal.png"
-      },
-      {
-         "clubName":"Liverpool FC",
-         "clubCode":"LFC",
-         "shortClubName":"Liverpool",
-         "marketValue":"367,950,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/liverpool.png"
-      },
-      {
-         "clubName":"Chelsea FC",
-         "clubCode":"CFC",
-         "shortClubName":"Chelsea",
-         "marketValue":"523,650,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/chelsea.png"
-      },
-      {
-         "clubName":"West Ham United FC",
-         "clubCode":"WHU",
-         "shortClubName":"West Ham",
-         "marketValue":"176,000,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/west_ham.png"
-      }
    ]
 }
