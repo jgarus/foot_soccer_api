@@ -14,29 +14,50 @@ end
 # route to load the teams JSON data
 get '/clubs/ligue_1' do
   content_type :json
-  logger.info "Loading Ligue 1 clubs data..."
+  logger.info "Loading clubs data..."
   File.read('data/json/clubs/ligue_1/ligue_1.json')
 end
 
 # route to load the teams JSON data
 get '/clubs/premier' do
   content_type :json
-  logger.info "Loading premier league clubs data..."
+  logger.info "Loading clubs data..."
   File.read('data/json/clubs/premier/premier.json')
 end
 
 # route to load the teams JSON data
 get '/clubs/laliga' do
   content_type :json
-  logger.info "Loading premier league clubs data..."
+  logger.info "Loading clubs data..."
   File.read('data/json/clubs/laliga/laliga.json')
 end
 
 # route to load the teams JSON data
 get '/clubs/bundesliga' do
   content_type :json
-  logger.info "Loading premier league clubs data..."
+  logger.info "Loading clubs data..."
   File.read('data/json/clubs/bundesliga/bundesliga.json')
+end
+
+# route to load the teams JSON data
+get '/clubs/seriea' do
+  content_type :json
+  logger.info "Loading clubs data..."
+  File.read('data/json/clubs/serie_a/serie_a.json')
+end
+
+# route to load the teams JSON data
+get '/clubs/liga_mx' do
+  content_type :json
+  logger.info "Loading clubs data..."
+  File.read('data/json/clubs/liga_mx/liga_mx.json')
+end
+
+# route to load the teams JSON data
+get '/clubs/primeira' do
+  content_type :json
+  logger.info "Loading clubs data..."
+  File.read('data/json/clubs/primeira/primeira.json')
 end
 
 # route to load the leagues JSON data
