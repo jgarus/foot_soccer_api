@@ -40,7 +40,7 @@ get '/clubs/bundesliga' do
 end
 
 # route to load the teams JSON data
-get '/clubs/seriea' do
+get '/clubs/serie_a' do
   content_type :json
   logger.info "Loading clubs data..."
   File.read('data/json/clubs/serie_a/serie_a.json')
