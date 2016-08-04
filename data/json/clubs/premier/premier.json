@@ -99,75 +99,86 @@
         "position":"11",
         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/everton.png"
      },
-      {
-         "clubName":"Hull City FC",
-         "clubCode":"HUL",
-         "shortClubName":"Hull",
-         "marketValue":"89,750,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/hull.png"
-      },
-
-
-
+     {
+        "clubName":"Swansea City FC",
+        "clubCode":"SWA",
+        "shortClubName":"Swansea",
+        "marketValue":"125,500,000 €",
+        "points":"47",
+        "position":"12",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/swansea.png"
+     },
       {
          "clubName":"Watford FC",
-         "clubCode":"WFC",
+         "clubCode":"WAT",
          "shortClubName":"Watford",
-         "marketValue":"93,950,000 €",
+         "marketValue":"109,750,000 €",
+         "points":"45",
+         "position":"13",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/watford.png"
-      },
-      {
-         "clubName":"Middlesbrough FC",
-         "clubCode":"MFC",
-         "shortClubName":"Middlesbrough",
-         "marketValue":"81,600,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/middlesbrough.png"
-      },
-
-
-
-      {
-         "clubName":"Crystal Palace FC",
-         "clubCode":"CPFC",
-         "shortClubName":"Crystal Palace",
-         "marketValue":"121,250,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/crystal.png"
       },
       {
          "clubName":"West Bromwich Albion FC",
          "clubCode":"WBA",
          "shortClubName":"West Bromwich",
-         "marketValue":"107,000,000 €",
+         "marketValue":"96,350,000 €",
+         "points":"43",
+         "position":"14",
          "crestUrl": "https://topseven7.herokuapp.com/images/clubs/premier/west_bromwich.png"
       },
       {
-         "clubName":"Burnley FC",
-         "clubCode":"BFC",
-         "shortClubName":"Burnley",
-         "marketValue":"46,750,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/burnley.png"
+         "clubName":"Crystal Palace FC",
+         "clubCode":"CPFC",
+         "shortClubName":"Crystal Palace",
+         "marketValue":"142,250,000 €",
+         "points":"42",
+         "position":"15",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/crystal.png"
       },
       {
-         "clubName":"Swansea City FC",
-         "clubCode":"SWA",
-         "shortClubName":"Swansea",
-         "marketValue":"116,100,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/swansea.png"
+         "clubName":"AFC Bournemouth",
+         "clubCode":"BOU",
+         "shortClubName":"Bournemouth",
+         "marketValue":"99,750,000 €",
+         "points":"42",
+         "position":"16",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/bournemouth.png"
       },
-
       {
          "clubName":"Sunderland AFC",
          "clubCode":"SUN",
          "shortClubName":"Sunderland",
-         "marketValue":"98,500,000 €",
+         "marketValue":"79,500,000 €",
+         "points":"39",
+         "position":"17",
          "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/sunderland.png"
       },
       {
-         "clubName":"AFC Bournemouth",
-         "clubCode":"AFCB",
-         "shortClubName":"Bournemouth",
-         "marketValue":"88,800,000 €",
-         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/bournemouth.png"
+         "clubName":"Newcastle United FC",
+         "clubCode":"NEW",
+         "shortClubName":"Newcastle",
+         "marketValue":"174,250,000 €",
+         "points":"37",
+         "position":"18",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/newcastle.png"
       },
+      {
+         "clubName":"Norwich City FC",
+         "clubCode":"NOR",
+         "shortClubName":"Norwich",
+         "marketValue":"76,050,000 €",
+         "points":"34",
+         "position":"19",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/norwich.png"
+      },
+      {
+         "clubName":"Aston Villa FC",
+         "clubCode":"AST",
+         "shortClubName":"Aston Villa",
+         "marketValue":"100,450,000 €",
+         "points":"17",
+         "position":"20",
+         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/aston_villa.png"
+      }
    ]
 }
