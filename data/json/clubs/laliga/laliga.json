@@ -10,7 +10,7 @@
       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/barcelona.png"
     },
     {
-      "clubName":"Real Madrid",
+      "clubName":"Real Madrid CF",
       "clubCode":"MAD",
       "shortClubName":"Real Madrdid",
       "marketValue":"783,300,000 €",
@@ -37,9 +37,9 @@
       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/villarreal.png"
     },
     {
-      "clubName":"Athletic Club",
+      "clubName":"Athletic Club de Bilbao",
       "clubCode":"ATH",
-      "shortClubName":"Athletic",
+      "shortClubName":"Athletic Club",
       "marketValue":"149,400,000 €",
       "points":"62",
       "position":"5",
@@ -52,7 +52,7 @@
       "marketValue":"99,500,000 €",
       "points":"60",
       "position":"6",
-      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/celta_vigo.png"
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/celta.png"
     },
     {
       "clubName":"Sevilla FC",
@@ -106,7 +106,7 @@
       "marketValue":"189,200,000 €",
       "points":"44",
       "position":"12",
-      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/malaga.png"
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/laliga/valencia.png"
     },
     {
       "clubName":"RCD Espanyol",
