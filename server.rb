@@ -32,6 +32,13 @@ get '/clubs/laliga' do
   File.read('data/json/clubs/laliga/laliga.json')
 end
 
+# route to load the teams JSON data
+get '/clubs/bundesliga' do
+  content_type :json
+  logger.info "Loading premier league clubs data..."
+  File.read('data/json/clubs/bundesliga/bundesliga.json')
+end
+
 # route to load the leagues JSON data
 get '/leagues' do
   content_type :json

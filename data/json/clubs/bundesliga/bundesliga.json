@@ -51,7 +51,7 @@
         "marketValue":"191,400,000 €",
         "points":"52",
         "position":"5",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/schalke.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -62,7 +62,7 @@
         "marketValue":"77,750,000 €",
         "points":"50",
         "position":"6",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/mainz.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -73,7 +73,7 @@
         "marketValue":"78,180,000 €",
         "points":"50",
         "position":"7",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/hertha.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -84,7 +84,7 @@
         "marketValue":"188,450,000 €",
         "points":"45",
         "position":"8",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/wolfsburg.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -95,7 +95,7 @@
         "marketValue":"73,850,000 €",
         "points":"43",
         "position":"9",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/koln.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -106,7 +106,7 @@
         "marketValue":"76,200,000 €",
         "points":"41",
         "position":"10",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/hamburger.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -117,7 +117,7 @@
         "marketValue":"33,200,000 €",
         "points":"40",
         "position":"11",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/ingolstadt.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -128,7 +128,7 @@
         "marketValue":"60,000,000 €",
         "points":"38",
         "position":"12",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/augsburg.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -139,7 +139,7 @@
         "marketValue":"55,100,000 €",
         "points":"38",
         "position":"13",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/werder.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -150,7 +150,7 @@
         "marketValue":"19,650,000 €",
         "points":"38",
         "position":"14",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/darmstadt.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -161,7 +161,7 @@
         "marketValue":"90,080,000 €",
         "points":"37",
         "position":"15",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/hoffenheim.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -172,7 +172,7 @@
         "marketValue":"56,250,000 €",
         "points":"36",
         "position":"16",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/frankfurt.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -183,7 +183,7 @@
         "marketValue":"34,600,000 €",
         "points":"34",
         "position":"17",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/stuttgart.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       },
@@ -194,7 +194,7 @@
         "marketValue":"32,800,000 €",
         "points":"34",
         "position":"18",
-        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/monchengladbach.png",
+        "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligue_1/hannover.png",
         "players":"https://topseven7.herokuapp.com/players/clubs/bundesliga/bundes_pl.json",
         "details":"https://topseven7.herokuapp.com/details/clubs/ligue_1/bundes_detail.json"
       }
