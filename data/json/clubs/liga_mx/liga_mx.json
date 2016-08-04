@@ -1,0 +1,166 @@
+{
+  "clubs":[
+    {
+      "clubName":"CF Pachuca",
+      "clubCode":"PAC",
+      "shortClubName":"Pachuca",
+      "marketValue":"42,400,000 €",
+      "points":"9",
+      "position":"1",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/pachuca.png"
+    },
+    {
+      "clubName":"Querétaro FC",
+      "clubCode":"QUE",
+      "shortClubName":"Querétaro",
+      "marketValue":"29,200,000 €",
+      "points":"7",
+      "position":"2",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/queretaro.png"
+    },
+    {
+      "clubName":"CF Universidad Nacional AC",
+      "clubCode":"PUM",
+      "shortClubName":"Pumas",
+      "marketValue":"29,200,000 €",
+      "points":"7",
+      "position":"3",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/pumas.png"
+    },
+    {
+      "clubName":"Club Tijuana",
+      "clubCode":"TIJ",
+      "shortClubName":"Tijuana",
+      "marketValue":"30,100,000 €",
+      "points":"6",
+      "position":"4",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/tijuana.png"
+    },
+    {
+      "clubName":"Club América",
+      "clubCode":"AME",
+      "shortClubName":"América",
+      "marketValue":"40,450,000 €",
+      "points":"6",
+      "position":"5",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/america.png"
+    },
+    {
+      "clubName":"Tigres UANL",
+      "clubCode":"TIG",
+      "shortClubName":"Tigres",
+      "marketValue":"55,300,000 €",
+      "points":"5",
+      "position":"6",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/tigres.png"
+    },
+    {
+      "clubName":"Atlas FC",
+      "clubCode":"ATL",
+      "shortClubName":"Atlas",
+      "marketValue":"55,300,000 €",
+      "points":"5",
+      "position":"7",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/atlas.png"
+    },
+    {
+      "clubName":"Monarcas Morelia",
+      "clubCode":"MOR",
+      "shortClubName":"Morelia",
+      "marketValue":"21,900,000 €",
+      "points":"4",
+      "position":"8",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/morelia.png"
+    },
+    {
+      "clubName":"Club Puebla",
+      "clubCode":"PUE",
+      "shortClubName":"Puebla",
+      "marketValue":"21,100,000 €",
+      "points":"4",
+      "position":"9",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/puebla.png"
+    },
+    {
+      "clubName":"Cruz Azul FC",
+      "clubCode":"CRU",
+      "shortClubName":"Cruz Azul",
+      "marketValue":"32,400,000 €",
+      "points":"3",
+      "position":"10",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/cruz_azul.png"
+    },
+    {
+      "clubName":"Tiburones Rojos de Veracruz",
+      "clubCode":"TIB",
+      "shortClubName":"Veracruz",
+      "marketValue":"26,400,000 €",
+      "points":"3",
+      "position":"11",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/veracruz.png"
+    },
+    {
+      "clubName":"Chiapas FC",
+      "clubCode":"CHI",
+      "shortClubName":"Chiapas",
+      "marketValue":"24,700,000 €",
+      "points":"3",
+      "position":"12",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/chiapas.png"
+    },
+    {
+      "clubName":"CD Guadalajara",
+      "clubCode":"GUA",
+      "shortClubName":"Guadalajara",
+      "marketValue":"34,300,000 €",
+      "points":"3",
+      "position":"13",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/guadalajara.png"
+    },
+    {
+      "clubName":"CF Monterrey",
+      "clubCode":"MON",
+      "shortClubName":"Monterrey",
+      "marketValue":"47,400,000 €",
+      "points":"2",
+      "position":"14",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/monterrey.png"
+    },
+    {
+      "clubName":"Club Necaxa",
+      "clubCode":"NEC",
+      "shortClubName":"Necaxa",
+      "marketValue":"19,500,000 €",
+      "points":"2",
+      "position":"15",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/necaxa.png"
+    },
+    {
+      "clubName":"Deportivo Toluca FC",
+      "clubCode":"TOL",
+      "shortClubName":"Toluca",
+      "marketValue":"31,700,000 €",
+      "points":"1",
+      "position":"16",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/toluca.png"
+    },
+    {
+      "clubName":"Club Santos Laguna",
+      "clubCode":"SAN",
+      "shortClubName":"Santos",
+      "marketValue":"30,400,000 €",
+      "points":"1",
+      "position":"17",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/santos.png"
+    },
+    {
+      "clubName":"Club León FC",
+      "clubCode":"LEO",
+      "shortClubName":"León",
+      "marketValue":"35,800,000 €",
+      "points":"1",
+      "position":"18",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/ligamx/leon.png"
+    }
+  ]
+}

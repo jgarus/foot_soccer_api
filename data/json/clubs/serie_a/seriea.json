@@ -1,0 +1,185 @@
+{
+  "clubs":[
+    {
+      "clubName":"Juventus FC",
+      "clubCode":"JUV",
+      "shortClubName":"Juventus",
+      "marketValue":"515,400,000 €",
+      "points":"91",
+      "position":"1",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/juventus.png"
+    },
+    {
+      "clubName":"SSC Napoli ",
+      "clubCode":"NAP",
+      "shortClubName":"Napoli",
+      "marketValue":"282,800,000 €",
+      "points":"82",
+      "position":"2",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/napoli.png"
+    },
+    {
+      "clubName":"AS Roma",
+      "clubCode":"ROM",
+      "shortClubName":"Roma",
+      "marketValue":"265,550,000 €",
+      "points":"80",
+      "position":"3",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/roma.png"
+    },
+    {
+      "clubName":"Inter Milan",
+      "clubCode":"INT",
+      "shortClubName":"Inter Milan",
+      "marketValue":"276,700,000 €",
+      "points":"67",
+      "position":"4",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/inter_milan.png"
+    },
+    {
+      "clubName":"ACF Fiorentina",
+      "clubCode":"FIO",
+      "shortClubName":"Fiorentina",
+      "marketValue":"165,750,000 €",
+      "points":"64",
+      "position":"5",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/fiorentina.png"
+    },
+    {
+      "clubName":"US Sassuolo Calcio",
+      "clubCode":"SAS",
+      "shortClubName":"Sassuolo",
+      "marketValue":"99,700,000 €",
+      "points":"61",
+      "position":"6",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/sassuolo.png"
+    },
+    {
+      "clubName":"AC Milan",
+      "clubCode":"ACM",
+      "shortClubName":"AC Milan",
+      "marketValue":"189,600,000 €",
+      "points":"57",
+      "position":"7",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/ac_milan.png"
+    },
+    {
+      "clubName":"SS Lazio",
+      "clubCode":"LAZ",
+      "shortClubName":"Lazio",
+      "marketValue":"181,330,000 €",
+      "points":"54",
+      "position":"8",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/lazio.png"
+    },
+    {
+      "clubName":"AC Chievo Verona",
+      "clubCode":"CHI",
+      "shortClubName":"Chievo",
+      "marketValue":"37,650,000 €",
+      "points":"50",
+      "position":"9",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/chievo.png"
+    },
+    {
+      "clubName":"Empoli FC",
+      "clubCode":"EMP",
+      "shortClubName":"Empoli",
+      "marketValue":"42,680,000 €",
+      "points":"46",
+      "position":"10",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/empoli.png"
+    },
+    {
+      "clubName":"Genoa CFC",
+      "clubCode":"GEN",
+      "shortClubName":"Genoa",
+      "marketValue":"83,080,000 €",
+      "points":"46",
+      "position":"11",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/genoa.png"
+    },
+    {
+      "clubName":"Torino FC",
+      "clubCode":"TOR",
+      "shortClubName":"Torino",
+      "marketValue":"93,700,000 €",
+      "points":"45",
+      "position":"12",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/torino.png"
+    },
+    {
+      "clubName":"Atalanta BC",
+      "clubCode":"ATA",
+      "shortClubName":"Atalanta",
+      "marketValue":"63,200,000 €",
+      "points":"45",
+      "position":"13",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/atalanta.png"
+    },
+    {
+      "clubName":"Bologna FC 1909",
+      "clubCode":"BOL",
+      "shortClubName":"Bologna",
+      "marketValue":"74,100,000 €",
+      "points":"42",
+      "position":"14",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/bologna.png"
+    },
+    {
+      "clubName":"UC Sampdoria",
+      "clubCode":"SAM",
+      "shortClubName":"Sampdoria",
+      "marketValue":"70,000,000 €",
+      "points":"40",
+      "position":"15",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/sampdoria.png"
+    },
+    {
+      "clubName":"US Città di Palermo",
+      "clubCode":"PAL",
+      "shortClubName":"Palermo",
+      "marketValue":"37,550,000 €",
+      "points":"39",
+      "position":"16",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/palermo.png"
+    },
+    {
+      "clubName":"Udinese Calcio",
+      "clubCode":"UDI",
+      "shortClubName":"Udinese",
+      "marketValue":"112,500,000 €",
+      "points":"39",
+      "position":"17",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/udinese.png"
+    },
+    {
+      "clubName":"Carpi FC 1909",
+      "clubCode":"CAR",
+      "shortClubName":"Carpi",
+      "marketValue":"26,150,000 €",
+      "points":"38",
+      "position":"18",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/carpi.png"
+    },
+    {
+      "clubName":"Frosinone Calcio",
+      "clubCode":"FRO",
+      "shortClubName":"Frosinone",
+      "marketValue":"20,000,000 €",
+      "points":"31",
+      "position":"19",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/frosinone.png"
+    },
+    {
+      "clubName":"Hellas Verona FC",
+      "clubCode":"VER",
+      "shortClubName":"Verona",
+      "marketValue":"30,100,000 €",
+      "points":"28",
+      "position":"20",
+      "crestUrl":"https://topseven7.herokuapp.com/images/clubs/serie_a/verona.png"
+
+    }
+  ]
+}

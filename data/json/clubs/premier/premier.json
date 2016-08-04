@@ -1,5 +1,5 @@
 {
-   "teams":[
+   "clubs":[
      {
         "clubName":"Leicester City FC",
         "clubCode":"LCF",
@@ -69,7 +69,7 @@
         "shortClubName":"Liverpool",
         "marketValue":"446,200,000 €",
         "points":"60",
-        "positioin":"8",
+        "position":"8",
         "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/liverpool.png"
      },
      {
