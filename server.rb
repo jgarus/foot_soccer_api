@@ -29,7 +29,7 @@ end
 get '/clubs/laliga' do
   content_type :json
   logger.info "Loading premier league clubs data..."
-  File.read('data/json/clubs/premier/laliga.json')
+  File.read('data/json/clubs/laliga/laliga.json')
 end
 
 # route to load the leagues JSON data
