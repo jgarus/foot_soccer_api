@@ -1,0 +1,243 @@
+{
+  "manager":
+  {
+    "name":"Marcelino García Toral",
+    "position":"Manager",
+    "birthDate":"Aug 14, 1965",
+    "age":"50",
+    "birthPlace":"Villaviciosa, Asturias, Spain",
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/marcelino.png"
+  },
+  "players":[
+    {
+      "name":"Sergio Asenjo",
+      "number":"1",
+      "position":"Keeper",
+      "birthDate":"June 28, 1989",
+      "age":"27",
+      "birthPlace":"Palencia, Spain",
+      "transferValue":"4,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/sergio_asenjo.png"
+    },
+    {
+      "name":"Andrés Fernández",
+      "number":"NA",
+      "position":"Keeper",
+      "birthDate":"Dec 17, 1986",
+      "age":"29",
+      "birthPlace":"Murcia, Spain",
+      "transferValue":"1,500,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/andres_fernandez.png"
+    },
+    {
+      "name":"Mariano Barbosa",
+      "number":"13",
+      "position":"Keeper",
+      "birthDate":"July 27, 1984",
+      "age":"32",
+      "birthPlace":"Lanús, Argentina",
+      "transferValue":"800,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/mariano_barbosa.png"
+    },
+    {
+      "name":"Antonio Rukavina",
+      "number":"22",
+      "position":"Right-Back",
+      "birthDate":"Jan 26, 1984",
+      "age":"32",
+      "birthPlace":"Belgrade, Serbia",
+      "transferValue":"2,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/rukavina.png"
+    },
+    {
+      "name":"Bojan Jokić",
+      "number":"24",
+      "position":"Left-Back",
+      "birthDate":"May 17, 1986",
+      "age":"30",
+      "birthPlace":"Kranj, Slovenia",
+      "transferValue":"900,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jokic.png"
+    },
+    {
+      "name":"Daniele Bonera",
+      "number":"23",
+      "position":"Center-Back",
+      "birthDate":"May 31, 1981",
+      "age":"35",
+      "birthPlace":"Brescia, Italy",
+      "transferValue":"500,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bonera.png"
+    },
+    {
+      "name":"Jaume Costa",
+      "number":"11",
+      "position":"Left-Back",
+      "birthDate":"May 18, 1988",
+      "age":"28",
+      "birthPlace":"Valencia, Spain",
+      "transferValue":"6,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/costa.png"
+    },
+    {
+      "name":"José Ángel",
+      "number":"null",
+      "position":"Left-Back",
+      "birthDate":"Sep 5, 1989",
+      "age":"26",
+      "birthPlace":"Gijón, Spain",
+      "transferValue":"2,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jose_angel.png"
+    },
+    {
+      "name":"Mario Gaspar",
+      "number":"2",
+      "position":"Right-Back",
+      "birthDate":"Nov 24, 1990",
+      "age":"25",
+      "birthPlace":"Novelda, Spain",
+      "transferValue":"12,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/gaspar.png"
+    },
+    {
+      "name":"Mateo Musacchio",
+      "number":"5",
+      "position":"Center-Back",
+      "birthDate":"Aug 26, 1990",
+      "age":"25",
+      "birthPlace":"Rosario, Argentina",
+      "transferValue":"15,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/musacchio.png"
+    },
+    {
+      "name":"Víctor Ruiz",
+      "number":"6",
+      "position":"Center-Back",
+      "birthDate":"Jan 25, 1989",
+      "age":"27",
+      "birthPlace":"Esplugues de Llobregat, Spain",
+      "transferValue":"8,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/ruiz.png"
+    },
+    {
+      "name":"Alfred N'Diaye",
+      "number":"null",
+      "position":"Defensive Midfield",
+      "birthDate":"Mar 6, 1990",
+      "age":"26",
+      "birthPlace":"Paris, France",
+      "transferValue":"8,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/ndiaye.png"
+    },
+    {
+      "name":"Bruno Soriano",
+      "number":"21",
+      "position":"Defensive Midfield",
+      "birthDate":"July 12, 1984",
+      "age":"32",
+      "birthPlace":"Artana, Spain",
+      "transferValue":"8,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bruno.png"
+    },
+    {
+      "name":"Cristian Espinoza",
+      "number":"null",
+      "position":"Right Wing",
+      "birthDate":"April 3, 1995",
+      "age":"21",
+      "birthPlace":"Buenos Aires, Argentina",
+      "transferValue":"7,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/espinoza.png"
+    },
+    {
+      "name":"Denis Cheryshev",
+      "number":"10",
+      "position":"Left Wing",
+      "birthDate":"Dec 26, 1999",
+      "age":"25",
+      "birthPlace":"Nizhny Novgorod, Russia",
+      "transferValue":"7,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/cheryshev.png"
+    },
+    {
+      "name":"Jonathan dos Santos",
+      "number":"8",
+      "position":"Center Midfield",
+      "birthDate":"Apr 26, 1990",
+      "age":"26",
+      "birthPlace":"Monterrey, México",
+      "transferValue":"6,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jonathan.png"
+    },
+    {
+      "name":"Samu Castillejo",
+      "number":"19",
+      "position":"Left Wing",
+      "birthDate":"Jan 18, 1995",
+      "age":"21",
+      "birthPlace":"Málaga, Spain",
+      "transferValue":"5,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/samu.png"
+    },
+    {
+      "name":"Manu Trigueros",
+      "number":"14",
+      "position":"Center Midfield",
+      "birthDate":"Oct 17, 1991",
+      "age":"21",
+      "birthPlace":"Talavera de la Reina, Spain",
+      "transferValue":"7,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/manu.png"
+    },
+    {
+      "name":"Roberto Soriano",
+      "number":"null",
+      "position":"Center Midfield",
+      "birthDate":"Feb 8, 1991",
+      "age":"25",
+      "birthPlace":"Darmstadt, Germany",
+      "transferValue":"14,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/soriano.png"
+    },
+    {
+      "name":"Rodri",
+      "number":"29",
+      "position":"Center Midfield",
+      "birthDate":"June 22, 1996",
+      "age":"20",
+      "birthPlace":"Madrid, Spain",
+      "transferValue":"null",
+      "playerPicture":"null"
+    },
+    {
+      "name":"Alexandre Pato",
+      "number":"null",
+      "position":"Center Forward",
+      "birthDate":"Sep 2, 1989",
+      "age":"26",
+      "birthPlace":"Pato Branco, Paraná, Brazil",
+      "transferValue":"5,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/pato.png"
+    },
+    {
+      "name":"Cédric Bakambu",
+      "number":"17",
+      "position":"Center Forward",
+      "birthDate":"Apr 11, 1991",
+      "age":"25",
+      "birthPlace":"Vitry-sur-Seine, France",
+      "transferValue":"20,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bakambu.png"
+    },
+    {
+      "name":"Roberto Soldado",
+      "number":"9",
+      "position":"Center Forward",
+      "birthDate":"May 27, 1985",
+      "age":"31",
+      "birthPlace":"Valencia, Spain",
+      "transferValue":"16,000,000 €",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/soldado.png"
+    }
+  ]
+}
