@@ -1,0 +1,153 @@
+{
+  "manager":
+  {
+    "name":"Arsène Wenger",
+    "position":"Manager",
+    "birthDate":"October 22, 1949",
+    "age":"66",
+    "birthPlace":"Strasbourg, France",
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wenger.png"
+  },
+  "players":[
+    {
+      "name":"David Ospina",
+      "number":"13",
+      "position":"Keeper",
+      "birthDate":"August 31, 1988",
+      "age":"27",
+      "transferValue":"4,000,000 €",
+      "birthPlace":"Medellin, Colombia",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ospina.png"
+    },
+    {
+      "name":"Petr Čech",
+      "number":"33",
+      "position":"Keeper",
+      "birthDate":"May 20, 1982",
+      "age":"34",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Pilsen, Czech Republic",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/cech.png"
+    },
+    {
+      "name":"Emilio Martinez",
+      "number":"26",
+      "position":"Keeper",
+      "birthDate":"Sept 2, 1992",
+      "age":"23",
+      "transferValue":"1,500,000 €",
+      "birthPlace":"Mar del Plata, Argentina",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/martinez.png"
+    },
+    {
+      "name":"Mathieu Debuchy",
+      "number":"2",
+      "position":"Defensive Midfield",
+      "birthDate":"July 28, 1985",
+      "age":"31",
+      "transferValue":"7,500,000 €",
+      "birthPlace":"Fretin, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/debuchy.png"
+    },
+    {
+      "name":"Rob Holding",
+      "number":"16",
+      "position":"Center Back",
+      "birthDate":"September 20, 1995",
+      "age":"20",
+      "transferValue":"1,500,000 €",
+      "birthPlace":"Tameside, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/holding.png"
+    },
+    {
+      "name":"Kieran Gibbs",
+      "number":"3",
+      "position":"Left Back",
+      "birthDate":"September 26, 1989",
+      "age":"26",
+      "transferValue":"13,000,000 €",
+      "birthPlace":"Lambeth, London, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gibbs.png"
+    },
+    {
+      "name":"Nacho Monreal",
+      "number":"18",
+      "position":"Left Back",
+      "birthDate":"February 26, 1986",
+      "age":"30",
+      "transferValue":"15,000,000 €",
+      "birthPlace":"Pamplona, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/monreal.png"
+    },
+    {
+      "name":"Per Mertesacker",
+      "number":"18",
+      "position":"Center Back",
+      "birthDate":"September 29, 1984",
+      "age":"31",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Hanover, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mertesacker.png"
+    },
+    {
+      "name":"Calum Chambers",
+      "number":"21",
+      "position":"Center Back",
+      "birthDate":"January 20, 1995",
+      "age":"21",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Petersfield, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/chambers.png"
+    },
+    {
+      "name":"Gabrriel Paulista",
+      "number":"25",
+      "position":"Center Back",
+      "birthDate":"Novermber 26, 1990",
+      "age":"25",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"São Paulo, São Paulo, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gabriel.png"
+    },
+    {
+      "name":"Hector Bellerin",
+      "number":"24",
+      "position":"Right Back",
+      "birthDate":"March 19, 1995",
+      "age":"21",
+      "transferValue":"18,000,000 €",
+      "birthPlace":"Barcelona, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/bellerin.png"
+    },
+    {
+      "name":"Laurent Koscielny",
+      "number":"6",
+      "position":"Center Back",
+      "birthDate":"September 10, 1985",
+      "age":"30",
+      "transferValue":"22,000,000 €",
+      "birthPlace":"Tulle, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/bellerin.png"
+    },
+    {
+      "name":"Laurent Koscielny",
+      "number":"6",
+      "position":"Center Back",
+      "birthDate":"September 10, 1985",
+      "age":"30",
+      "transferValue":"22,000,000 €",
+      "birthPlace":"Tulle, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/koscielny.png"
+    },
+    {
+      "name":"Karl Jenkinson",
+      "number":"25",
+      "position":"Right Back",
+      "birthDate":"February 8, 1992",
+      "age":"24",
+      "transferValue":"9,000,000 €",
+      "birthPlace":"Harlow, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/jenkinson.png"
+    },
+  ]
+}

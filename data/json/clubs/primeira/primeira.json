@@ -7,7 +7,7 @@
        "marketValue":"169,700,000 €",
        "points":"88",
        "position":"1",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/benfica.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/benfica.png"
     },
     {
        "clubName":"Sporting Clube de Portugal",
@@ -16,7 +16,7 @@
        "marketValue":"180,970,000 €",
        "points":"86",
        "position":"2",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/sporting.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/sporting.png"
     },
     {
        "clubName":"FC Porto",
@@ -25,7 +25,7 @@
        "marketValue":"158,610,000 €",
        "points":"73",
        "position":"3",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/porto.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/porto.png"
     },
     {
        "clubName":"SC Braga",
@@ -34,7 +34,7 @@
        "marketValue":"53,470,000 €",
        "points":"58",
        "position":"4",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/braga.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/braga.png"
     },
     {
        "clubName":"FC Arouca",
@@ -43,7 +43,7 @@
        "marketValue":"19,400,000 €",
        "points":"54",
        "position":"5",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/arouca.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/arouca.png"
     },
     {
        "clubName":"Rio Ave FC",
@@ -52,7 +52,7 @@
        "marketValue":"17,960,000 €",
        "points":"50",
        "position":"6",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/rio_ave.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/rio_ave.png"
     },
     {
        "clubName":"FC Paços de Ferreira",
@@ -61,7 +61,7 @@
        "marketValue":"12,640,000 €",
        "points":"49",
        "position":"7",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/ferreira.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/ferreira.png"
     },
     {
        "clubName":"GD Estoril Praia",
@@ -70,7 +70,7 @@
        "marketValue":"11,110,000 €",
        "points":"47",
        "position":"8",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/estoril_praia.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/estoril_praia.png"
     },
     {
        "clubName":"CF Os Belenenses",
@@ -79,7 +79,7 @@
        "marketValue":"19,610,000 €",
        "points":"41",
        "position":"9",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/belenenses.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/belenenses.png"
     },
     {
        "clubName":"Vitoria de Guimarães SC",
@@ -88,7 +88,7 @@
        "marketValue":"27,200,000 €",
        "points":"40",
        "position":"10",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/guimaraes.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/guimaraes.png"
     },
     {
        "clubName":"CD Nacional",
@@ -97,7 +97,7 @@
        "marketValue":"17,190,000 €",
        "points":"38",
        "position":"11",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/nacional.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/nacional.png"
     },
     {
        "clubName":"Moreirense FC",
@@ -106,7 +106,7 @@
        "marketValue":"8,760,000 €",
        "points":"36",
        "position":"12",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/moreirense.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/moreirense.png"
     },
     {
        "clubName":"CS Marítimo",
@@ -115,7 +115,7 @@
        "marketValue":"16,080,000 €",
        "points":"35",
        "position":"13",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/maritimo.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/maritimo.png"
     },
     {
        "clubName":"Boavista FC",
@@ -124,7 +124,7 @@
        "marketValue":"15,480,000 €",
        "points":"33",
        "position":"14",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/boavista.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/boavista.png"
     },
     {
        "clubName":"Vitória de Setúbal FC",
@@ -133,7 +133,7 @@
        "marketValue":"21,300,000 €",
        "points":"30",
        "position":"15",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/setubal.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/setubal.png"
     },
     {
        "clubName":"CD Tondela",
@@ -142,7 +142,7 @@
        "marketValue":"10,680,000 €",
        "points":"30",
        "position":"16",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/tondela.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/tondela.png"
     },
     {
        "clubName":"CF União da Madeira",
@@ -151,7 +151,7 @@
        "marketValue":"7,630,000 €",
        "points":"29",
        "position":"17",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/madeira.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/madeira.png"
     },
     {
        "clubName":"Associação Académica da Coimbra OAF",
@@ -160,7 +160,7 @@
        "marketValue":"11,080,000 €",
        "points":"25",
        "position":"18",
-       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/premier/coimbra.png"
+       "crestUrl":"https://topseven7.herokuapp.com/images/clubs/primeira/coimbra.png"
     }
   ]
 }

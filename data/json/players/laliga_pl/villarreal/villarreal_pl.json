@@ -6,7 +6,7 @@
     "birthDate":"Aug 14, 1965",
     "age":"50",
     "birthPlace":"Villaviciosa, Asturias, Spain",
-    "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/marcelino.png"
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/marcelino.png"
   },
   "players":[
     {
@@ -17,7 +17,7 @@
       "age":"27",
       "birthPlace":"Palencia, Spain",
       "transferValue":"4,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/sergio_asenjo.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/sergio_asenjo.png"
     },
     {
       "name":"Andrés Fernández",
@@ -27,7 +27,7 @@
       "age":"29",
       "birthPlace":"Murcia, Spain",
       "transferValue":"1,500,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/andres_fernandez.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/andres_fernandez.png"
     },
     {
       "name":"Mariano Barbosa",
@@ -37,7 +37,7 @@
       "age":"32",
       "birthPlace":"Lanús, Argentina",
       "transferValue":"800,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/mariano_barbosa.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/mariano_barbosa.png"
     },
     {
       "name":"Antonio Rukavina",
@@ -47,7 +47,7 @@
       "age":"32",
       "birthPlace":"Belgrade, Serbia",
       "transferValue":"2,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/rukavina.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/rukavina.png"
     },
     {
       "name":"Bojan Jokić",
@@ -57,7 +57,7 @@
       "age":"30",
       "birthPlace":"Kranj, Slovenia",
       "transferValue":"900,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jokic.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/jokic.png"
     },
     {
       "name":"Daniele Bonera",
@@ -67,7 +67,7 @@
       "age":"35",
       "birthPlace":"Brescia, Italy",
       "transferValue":"500,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bonera.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/bonera.png"
     },
     {
       "name":"Jaume Costa",
@@ -77,7 +77,7 @@
       "age":"28",
       "birthPlace":"Valencia, Spain",
       "transferValue":"6,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/costa.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/costa.png"
     },
     {
       "name":"José Ángel",
@@ -87,7 +87,7 @@
       "age":"26",
       "birthPlace":"Gijón, Spain",
       "transferValue":"2,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jose_angel.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/jose_angel.png"
     },
     {
       "name":"Mario Gaspar",
@@ -97,7 +97,7 @@
       "age":"25",
       "birthPlace":"Novelda, Spain",
       "transferValue":"12,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/gaspar.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/gaspar.png"
     },
     {
       "name":"Mateo Musacchio",
@@ -107,7 +107,7 @@
       "age":"25",
       "birthPlace":"Rosario, Argentina",
       "transferValue":"15,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/musacchio.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/musacchio.png"
     },
     {
       "name":"Víctor Ruiz",
@@ -117,7 +117,7 @@
       "age":"27",
       "birthPlace":"Esplugues de Llobregat, Spain",
       "transferValue":"8,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/ruiz.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/ruiz.png"
     },
     {
       "name":"Alfred N'Diaye",
@@ -127,7 +127,7 @@
       "age":"26",
       "birthPlace":"Paris, France",
       "transferValue":"8,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/ndiaye.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/ndiaye.png"
     },
     {
       "name":"Bruno Soriano",
@@ -137,7 +137,7 @@
       "age":"32",
       "birthPlace":"Artana, Spain",
       "transferValue":"8,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bruno.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/bruno.png"
     },
     {
       "name":"Cristian Espinoza",
@@ -147,7 +147,7 @@
       "age":"21",
       "birthPlace":"Buenos Aires, Argentina",
       "transferValue":"7,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/espinoza.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/espinoza.png"
     },
     {
       "name":"Denis Cheryshev",
@@ -157,7 +157,7 @@
       "age":"25",
       "birthPlace":"Nizhny Novgorod, Russia",
       "transferValue":"7,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/cheryshev.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/cheryshev.png"
     },
     {
       "name":"Jonathan dos Santos",
@@ -167,7 +167,7 @@
       "age":"26",
       "birthPlace":"Monterrey, México",
       "transferValue":"6,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/jonathan.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/jonathan.png"
     },
     {
       "name":"Samu Castillejo",
@@ -177,7 +177,7 @@
       "age":"21",
       "birthPlace":"Málaga, Spain",
       "transferValue":"5,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/samu.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/samu.png"
     },
     {
       "name":"Manu Trigueros",
@@ -187,7 +187,7 @@
       "age":"21",
       "birthPlace":"Talavera de la Reina, Spain",
       "transferValue":"7,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/manu.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/manu.png"
     },
     {
       "name":"Roberto Soriano",
@@ -197,7 +197,7 @@
       "age":"25",
       "birthPlace":"Darmstadt, Germany",
       "transferValue":"14,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/soriano.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/soriano.png"
     },
     {
       "name":"Rodri",
@@ -217,7 +217,7 @@
       "age":"26",
       "birthPlace":"Pato Branco, Paraná, Brazil",
       "transferValue":"5,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/pato.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/pato.png"
     },
     {
       "name":"Cédric Bakambu",
@@ -227,7 +227,7 @@
       "age":"25",
       "birthPlace":"Vitry-sur-Seine, France",
       "transferValue":"20,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/bakambu.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/bakambu.png"
     },
     {
       "name":"Roberto Soldado",
@@ -237,7 +237,7 @@
       "age":"31",
       "birthPlace":"Valencia, Spain",
       "transferValue":"16,000,000 €",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/soldado.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/laliga_pl/villarreal_pl/soldado.png"
     }
   ]
 }
