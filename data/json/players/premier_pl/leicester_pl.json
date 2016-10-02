@@ -1,0 +1,283 @@
+{
+  "manager":
+  {
+    "name":"Claudio Ranieri",
+    "position":"Manager",
+    "birthDate":"October 20, 1951",
+    "age":"64",
+    "birthPlace":"Rome, Italy",
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ranieri.png"
+  },
+  "players":[
+    {
+      "name":"Kasper Schmeichel",
+      "number":"1",
+      "position":"Keeper",
+      "birthDate":"November 5, 1986",
+      "age":"29",
+      "transferValue":"8,000,000 €",
+      "birthPlace":"Copenhagen, Denmark",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/schmeichel.png"
+    },
+    {
+      "name":"Ritchie De Laet",
+      "number":"2",
+      "position":"Right-Back",
+      "birthDate":"November 28, 1988",
+      "age":"27",
+      "transferValue":"2,000,000 €",
+      "birthPlace":"Antwerp, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ritchie.png"
+    },
+    {
+      "name":"Danny Drinkwater",
+      "number":"4",
+      "position":"Center Midfield",
+      "birthDate":"March 5, 1990",
+      "age":"26",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Manchester, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/drinkwater.png"
+    },
+    {
+      "name":"Wes Morgan",
+      "number":"5",
+      "position":"Center Back",
+      "birthDate":"January 25, 1984",
+      "age":"32",
+      "transferValue":"3,000,000 €",
+      "birthPlace":"Nottingham, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/morgan.png"
+    },
+    {
+      "name":"Robert Huth",
+      "number":"6",
+      "position":"Center Back",
+      "birthDate":"August 18, 1984",
+      "age":"31",
+      "transferValue":"6,000,000 €",
+      "birthPlace":"Biesdorf, Berlin, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/huth.png"
+    },
+    {
+      "name":"Matty James",
+      "number":"8",
+      "position":"Center Midfield",
+      "birthDate":"July 22, 1991",
+      "age":"25",
+      "transferValue":"1,500,000 €",
+      "birthPlace":"Bacup, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/james.png"
+    },
+    {
+      "name":"Jamie Vardy",
+      "number":"9",
+      "position":"Center Forward",
+      "birthDate":"January 11, 1987",
+      "age":"29",
+      "transferValue":"20,000,000 €",
+      "birthPlace":"Sheffield, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/vardy.png"
+    },
+    {
+      "name":"Andy King",
+      "number":"10",
+      "position":"Center Midfield",
+      "birthDate":"October 29, 1988",
+      "age":"27",
+      "transferValue":"3,500,000 €",
+      "birthPlace":"Barnstaple, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/king.png"
+    },
+    {
+      "name":"Marc Albrighton",
+      "number":"11",
+      "position":"Left Midfield",
+      "birthDate":"November 18, 1989",
+      "age":"26",
+      "transferValue":"6,000,000 €",
+      "birthPlace":"Tamworth, Staffordshire, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/albrighton.png"
+    },
+    {
+      "name":"Ben Hamer",
+      "number":"12",
+      "position":"Keeper",
+      "birthDate":"November 20, 1987",
+      "age":"28",
+      "transferValue":"500,000 €",
+      "birthPlace":"Chard, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/hamer.png"
+    },
+    {
+      "name":"Daniel Amartey",
+      "number":"13",
+      "position":"Defensive Midfield",
+      "birthDate":"December 21, 1994",
+      "age":"21",
+      "transferValue":"5,000,000 €",
+      "birthPlace":"Accra, Ghana",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/amartey.png"
+    },
+    {
+      "name":"Jeffrey Schlupp",
+      "number":"15",
+      "position":"Left-Back",
+      "birthDate":"December 23, 1992",
+      "age":"23",
+      "transferValue":"8,000,000 €",
+      "birthPlace":"Hamburg, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/schlupp.png"
+    },
+    {
+      "name":"Danny Simpson",
+      "number":"17",
+      "position":"Right-Back",
+      "birthDate":"January 4, 1987",
+      "age":"29",
+      "transferValue":"5,000,000 €",
+      "birthPlace":"Eccles, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/simpson.png"
+    },
+    {
+      "name":"Liam Moore",
+      "number":"18",
+      "position":"Center Back",
+      "birthDate":"January 31, 1993",
+      "age":"23",
+      "transferValue":"2,000,000 €",
+      "birthPlace":"Loughborough, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/moore.png"
+    },
+    {
+      "name":"Shinji Okazaki",
+      "number":"20",
+      "position":"Center Forward",
+      "birthDate":"April 16, 1986",
+      "age":"30",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Takarazuka, Hyōgo Prefecture, Japan",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/okazaki.png"
+    },
+    {
+      "name":"Demarai Gray",
+      "number":"22",
+      "position":"Left Wing",
+      "birthDate":"June 28, 1996",
+      "age":"20",
+      "transferValue":"6,000,000 €",
+      "birthPlace":"Birmingham, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gray.png"
+    },
+    {
+      "name":"Leonardo Ulloa",
+      "number":"23",
+      "position":"Center Forward",
+      "birthDate":"July 26, 1986",
+      "age":"30",
+      "transferValue":"8,000,000 €",
+      "birthPlace":"General Roca, Argentina",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ulloa.png"
+    },
+    {
+      "name":"Riyad Mahrez",
+      "number":"25",
+      "position":"Right Wing",
+      "birthDate":"February 21, 1991",
+      "age":"25",
+      "transferValue":"30,000,000 €",
+      "birthPlace":"Sarcelles, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mahrez.png"
+    },
+    {
+      "name":"Marcin Wasilewski",
+      "number":"27",
+      "position":"Center Back",
+      "birthDate":"June 9, 1980",
+      "age":"36",
+      "transferValue":"500,000 €",
+      "birthPlace":"Kraków, Poland",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wasilewski.png"
+    },
+    {
+      "name":"Christian Fuchs",
+      "number":"28",
+      "position":"Left Back",
+      "birthDate":"April 7, 1986",
+      "age":"30",
+      "transferValue":"6,000,000 €",
+      "birthPlace":"Neunkirchen, Austria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/fuchs.png"
+    },
+    {
+      "name":"Yohan Benalouane",
+      "number":"29",
+      "position":"Center Back",
+      "birthDate":"March 28, 1987",
+      "age":"29",
+      "transferValue":"2,000,000 €",
+      "birthPlace":"Bagnols-sur-Cèze, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/benalouane.png"
+    },
+    {
+      "name":"Ben Chilwell",
+      "number":"30",
+      "position":"Left Back",
+      "birthDate":"December 21, 1996",
+      "age":"19",
+      "transferValue":"2,500,000 €",
+      "birthPlace":"Milton Keynes, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/chilwell.png"
+    },
+    {
+      "name":"Gokhan Inler",
+      "number":"33",
+      "position":"Center Midfield",
+      "birthDate":"June 27, 1984",
+      "age":"32",
+      "transferValue":"4,500,000 €",
+      "birthPlace":"Olten, Switzerland",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/inler.png"
+    },
+    {
+      "name":"Ron-Robert Zieler",
+      "number":"21",
+      "position":"Keeper",
+      "birthDate":"February 12, 1989",
+      "age":"27",
+      "transferValue":"8,000,000 €",
+      "birthPlace":"Cologne, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/zieler.png"
+    },
+    {
+      "name":"Luis Hernández",
+      "number":"2",
+      "position":"Center Back",
+      "birthDate":"August 14, 1989",
+      "age":"26",
+      "transferValue":"3,500,000 €",
+      "birthPlace":"Madrid, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/hernandez.png"
+    },
+    {
+      "name":"Nampalys Mendy",
+      "number":"24",
+      "position":"Defensive Midfield",
+      "birthDate":"June 23, 1992",
+      "age":"24",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"La Seyne-sur-Mer, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mendy.png"
+    },
+    {
+      "name":"Ahmed Musa",
+      "number":"7",
+      "position":"Center Forward",
+      "birthDate":"October 14, 1992",
+      "age":"23",
+      "transferValue":"18,000,000 €",
+      "birthPlace":"Jos, Nigeria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/musa.png"
+    },
+  ]
+}
