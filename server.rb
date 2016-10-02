@@ -14,7 +14,7 @@ end
 # Getting the Villarreal players
 get '/players/laliga/villarreal' do
   content_type :json
-  File.read('data/json/players/laliga_pl/villarreal/villarreal_pl.json')
+  File.read('data/json/players/laliga_pl/villarreal_pl.json')
 end
 
 # route to load the teams JSON data
