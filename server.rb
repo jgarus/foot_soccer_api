@@ -73,6 +73,13 @@ get '/leagues' do
   File.read('data/json/leagues/leagues.json')
 end
 
+# route to load the leagues JSON data
+get '/games' do
+  content_type :json
+  logger.info "Loading league info..."
+  File.read('data/json/4102/videogames.json')
+end
+
 
 # 304 Error FIx maybe
 def last_modified(time)
