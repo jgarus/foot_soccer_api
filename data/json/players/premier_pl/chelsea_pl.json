@@ -1,0 +1,263 @@
+{
+  "manager":
+  {
+    "name":"Antonio Conte",
+    "position":"Manager",
+    "birthDate":"July 31, 1969",
+    "age":"47",
+    "birthPlace":"Lecce, Italy",
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/conte.jpg"
+  },
+  "players":[
+    {
+      "name":"Thibaut Courtois",
+      "number":"13",
+      "position":"Keeper",
+      "birthDate":"May 11, 1992",
+      "age":"24",
+      "transferValue":"35,000,000 €",
+      "birthPlace":"Bree, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/courtois.png"
+    },
+    {
+      "name":"Asmir Begović",
+      "number":"1",
+      "position":"Keeper",
+      "birthDate":"June 20, 1987",
+      "age":"29",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Trebinje, Bosnia and Herzegovina",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/begovic.png"
+    },
+    {
+      "name":"Eduardo Carvalho",
+      "number":"37",
+      "position":"Keeper",
+      "birthDate":"September 19, 1982",
+      "age":"34",
+      "transferValue":"1,500,000 €",
+      "birthPlace":"Mirandela, Portugal",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/eduardo.png"
+    },
+    {
+      "name":"Ola Aina",
+      "number":"34",
+      "position":"Right Back",
+      "birthDate":"October 8, 1996",
+      "age":"20",
+      "transferValue":"500,000 €",
+      "birthPlace":"London Borough of Southwark, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/aina.png"
+    },
+    {
+      "name":"Marcos Alonso Mendoza",
+      "number":"3",
+      "position":"Left Back",
+      "birthDate":"December 28, 1990",
+      "age":"25",
+      "transferValue":"13,000,000 €",
+      "birthPlace":"Madrid, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/marcos.png"
+    },
+    {
+      "name":"César Azpilicueta",
+      "number":"28",
+      "position":"Left Back",
+      "birthDate":"August 28, 1989",
+      "age":"27",
+      "transferValue":"20,000,000 €",
+      "birthPlace":"Pamplona, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/azpilicueta.png"
+    },
+    {
+      "name":"Gary Cahill",
+      "number":"24",
+      "position":"Center Back",
+      "birthDate":"December 19, 1985",
+      "age":"30",
+      "transferValue":"16,000,000 €",
+      "birthPlace":"Dronfield, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/cahill.png"
+    },
+    {
+      "name":"Branislav Ivanović",
+      "number":"32",
+      "position":"Right Back",
+      "birthDate":"February 22, 1984",
+      "age":"32",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Sremska Mitrovica, Serbia",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/ivanovic.png"
+    },
+    {
+      "name":"David Luiz",
+      "number":"30",
+      "position":"Center Back",
+      "birthDate":"April 22, 1987",
+      "age":"29",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Diadema, São Paulo, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/david.png"
+    },
+    {
+      "name":"John Terry",
+      "number":"26",
+      "position":"Center Back",
+      "birthDate":"December 7, 1980",
+      "age":"35",
+      "transferValue":"2,500,000 €",
+      "birthPlace":"London, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/terry.png"
+    },
+    {
+      "name":"Kurt Zouma",
+      "number":"5",
+      "position":"Center Back",
+      "birthDate":"October 27, 1994",
+      "age":"22",
+      "transferValue":"17,000,000 €",
+      "birthPlace":"Lyon, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/zouma.png"
+    },
+    {
+      "name":"Nathanial Chalobah",
+      "number":"29",
+      "position":"Defensive Midfield",
+      "birthDate":"December 12, 1994",
+      "age":"21",
+      "transferValue":"3,300,000 €",
+      "birthPlace":"Freetown, Sierra Leone",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/chalobah.png"
+    },
+    {
+      "name":"Cesc Fàbregas",
+      "number":"4",
+      "position":"Center Midfield",
+      "birthDate":"May 4, 1987",
+      "age":"29",
+      "transferValue":"45,000,000 €",
+      "birthPlace":"Arenys de Mar, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/fabregas.png"
+    },
+    {
+      "name":"Eden Hazard",
+      "number":"10",
+      "position":"Left Wing",
+      "birthDate":"January 7, 1991",
+      "age":"25",
+      "transferValue":"65,000,000 €",
+      "birthPlace":"La Louvière, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/hazard.png"
+    },
+    {
+      "name":"N'Golo Kanté",
+      "number":"7",
+      "position":"Defensive Midfield",
+      "birthDate":"March 29, 1991",
+      "age":"25",
+      "transferValue":"30,000,000 €",
+      "birthPlace":"Paris, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/kante.png"
+    },
+    {
+      "name":"Ruben Loftus-Cheek",
+      "number":"14",
+      "position":"Center Midfield",
+      "birthDate":"January 23, 1996",
+      "age":"20",
+      "transferValue":"5,000,000 €",
+      "birthPlace":"Lewisham, London, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/loftus-cheek.png"
+    },
+    {
+      "name":"Nemanja Matic",
+      "number":"21",
+      "position":"Defensive Midfield",
+      "birthDate":"August 1, 1988",
+      "age":"28",
+      "transferValue":"32,000,000 €",
+      "birthPlace":"Šabac, Serbia",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/matic.png"
+    },
+    {
+      "name":"John Mikel Obi",
+      "number":"12",
+      "position":"Defensive Midfield",
+      "birthDate":"April 22, 1987",
+      "age":"29",
+      "transferValue":"11,000,000 €",
+      "birthPlace":"Jos, Nigeria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/obi.png"
+    },
+    {
+      "name":"Victor Moses",
+      "number":"15",
+      "position":"Right Wing",
+      "birthDate":"December 12, 1990",
+      "age":"25",
+      "transferValue":"7,000,000 €",
+      "birthPlace":"Kaduna, Nigeria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/moses.png"
+    },
+    {
+      "name":"Oscar",
+      "number":"8",
+      "position":"Attacking Midfield",
+      "birthDate":"September 9, 1991",
+      "age":"25",
+      "transferValue":"35,000,000 €",
+      "birthPlace":"Americana, São Paulo, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/oscar.png"
+    },
+    {
+      "name":"Pedro",
+      "number":"11",
+      "position":"Right Wing",
+      "birthDate":"July 28, 1987",
+      "age":"29",
+      "transferValue":"23,000,000 €",
+      "birthPlace":"Santa Cruz de Tenerife, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/pedro.png"
+    },
+    {
+      "name":"Willian",
+      "number":"22",
+      "position":"Right Wing",
+      "birthDate":"August 9, 1988",
+      "age":"28",
+      "transferValue":"32,000,000 €",
+      "birthPlace":"Ribeirão Pires, São Paulo, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/willian.png"
+    },
+    {
+      "name":"Michy Batshuayi",
+      "number":"23",
+      "position":"Striker, Center Forward",
+      "birthDate":"October 2, 1993",
+      "age":"23",
+      "transferValue":"25,000,000 €",
+      "birthPlace":"Brussels, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/batshuayi.png"
+    },
+    {
+      "name":"Diego Costa",
+      "number":"19",
+      "position":"Striker, Center Forward",
+      "birthDate":"October 7, 1988",
+      "age":"28",
+      "transferValue":"45,000,000 €",
+      "birthPlace":"Lagarto, Sergipe, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/costa.png"
+    },
+    {
+      "name":"Dominic Solanke",
+      "number":"41",
+      "position":"Striker, Center Forward",
+      "birthDate":"September 14, 1997",
+      "age":"19",
+      "transferValue":"2,000,000 €",
+      "birthPlace":"Reading, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/chelsea_pl/solanke.png"
+    }
+  ]
+}
