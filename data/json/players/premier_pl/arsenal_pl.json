@@ -6,7 +6,7 @@
     "birthDate":"October 22, 1949",
     "age":"66",
     "birthPlace":"Strasbourg, France",
-    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wenger.png"
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wenger.jpg"
   },
   "players":[
     {
@@ -17,7 +17,7 @@
       "age":"27",
       "transferValue":"4,000,000 €",
       "birthPlace":"Medellin, Colombia",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ospina.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ospina.jpg"
     },
     {
       "name":"Petr Čech",
@@ -27,7 +27,7 @@
       "age":"34",
       "transferValue":"12,000,000 €",
       "birthPlace":"Pilsen, Czech Republic",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/cech.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/cech.jpg"
     },
     {
       "name":"Emilio Martinez",
@@ -37,7 +37,7 @@
       "age":"23",
       "transferValue":"1,500,000 €",
       "birthPlace":"Mar del Plata, Argentina",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/martinez.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/martinez.jpg"
     },
     {
       "name":"Mathieu Debuchy",
@@ -47,7 +47,7 @@
       "age":"31",
       "transferValue":"7,500,000 €",
       "birthPlace":"Fretin, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/debuchy.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/debuchy.jpg"
     },
     {
       "name":"Rob Holding",
@@ -57,7 +57,7 @@
       "age":"20",
       "transferValue":"1,500,000 €",
       "birthPlace":"Tameside, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/holding.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/holding.jpg"
     },
     {
       "name":"Kieran Gibbs",
@@ -67,7 +67,7 @@
       "age":"26",
       "transferValue":"13,000,000 €",
       "birthPlace":"Lambeth, London, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gibbs.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gibbs.jpg"
     },
     {
       "name":"Nacho Monreal",
@@ -77,7 +77,7 @@
       "age":"30",
       "transferValue":"15,000,000 €",
       "birthPlace":"Pamplona, Spain",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/monreal.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/monreal.jpg"
     },
     {
       "name":"Per Mertesacker",
@@ -87,7 +87,17 @@
       "age":"31",
       "transferValue":"10,000,000 €",
       "birthPlace":"Hanover, Germany",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mertesacker.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mertesacker.jpg"
+    },
+    {
+      "name":"Shkodran Mustafi",
+      "number":"20",
+      "position":"Center Back",
+      "birthDate":"April 17, 1992",
+      "age":"24",
+      "transferValue":"30,000,000 €",
+      "birthPlace":"Bad Hersdfield, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/mustafi.jpg"
     },
     {
       "name":"Calum Chambers",
@@ -97,7 +107,7 @@
       "age":"21",
       "transferValue":"12,000,000 €",
       "birthPlace":"Petersfield, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/chambers.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/chambers.jpg"
     },
     {
       "name":"Gabrriel Paulista",
@@ -107,7 +117,7 @@
       "age":"25",
       "transferValue":"12,000,000 €",
       "birthPlace":"São Paulo, São Paulo, Brazil",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gabriel.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gabriel.jpg"
     },
     {
       "name":"Hector Bellerin",
@@ -117,7 +127,7 @@
       "age":"21",
       "transferValue":"18,000,000 €",
       "birthPlace":"Barcelona, Spain",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/bellerin.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/bellerin.jpg"
     },
     {
       "name":"Laurent Koscielny",
@@ -127,27 +137,17 @@
       "age":"30",
       "transferValue":"22,000,000 €",
       "birthPlace":"Tulle, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/bellerin.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/koscielny.jpg"
     },
     {
-      "name":"Laurent Koscielny",
-      "number":"6",
-      "position":"Center Back",
-      "birthDate":"September 10, 1985",
-      "age":"30",
-      "transferValue":"22,000,000 €",
-      "birthPlace":"Tulle, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/koscielny.png"
-    },
-    {
-      "name":"Karl Jenkinson",
+      "name":"Carl Jenkinson",
       "number":"25",
       "position":"Right Back",
       "birthDate":"February 8, 1992",
       "age":"24",
       "transferValue":"9,000,000 €",
       "birthPlace":"Harlow, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/jenkinson.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/jenkinson.jpg"
     },
     {
       "name":"Aaron Ramsey",
@@ -157,7 +157,7 @@
       "age":"24",
       "transferValue":"9,000,000 €",
       "birthPlace":"Harlow, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/jenkinson.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ramsey.jpg"
     },
     {
       "name":"Santi Cazorla",
@@ -167,157 +167,177 @@
       "age":"31",
       "transferValue":"20,000,000 €",
       "birthPlace":"Llanera, Asturias, Spain",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/cazorla.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/cazorla.jpg"
     },
     {
       "name":"Jack Wilshire",
       "number":"10",
       "position":"Center Midfield",
       "birthDate":"January 1, 1992",
-      "age":"24"
+      "age":"24",
       "transferValue":"23,000,000 €",
       "birthPlace":"Stevenage, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wilshire.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/wilshire.jpg"
     },
     {
       "name":"Granit Xhaka",
       "number":"29",
       "position":"Center Midfield",
       "birthDate":"September 27, 1992",
-      "age":"23"
+      "age":"23",
       "transferValue":"35,000,000 €",
       "birthPlace":"Basel, Switzerland",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/xhaka.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/xhaka.jpg"
+    },
+    {
+      "name":"Jeff Reine-Adelaide",
+      "number":"31",
+      "position":"Right Wing",
+      "birthDate":"January 17, 1998",
+      "age":"18",
+      "transferValue":"2,500,000 €",
+      "birthPlace":"Champigny-sur-Marne, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/adelaide.jpg"
     },
     {
       "name":"Mesut Özil",
       "number":"11",
       "position":"Attacking Midfield",
       "birthDate":"October 15, 1988",
-      "age":"27"
+      "age":"27",
       "transferValue":"50,000,000 €",
       "birthPlace":"Gelsenkirchen, Germany",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ozil.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ozil.jpg"
     },
     {
       "name":"Francis Coquelin",
       "number":"34",
       "position":"Defensive Midfield",
       "birthDate":"May 13, 1995",
-      "age":"25"
+      "age":"25",
       "transferValue":"13,000,000 €",
       "birthPlace":"Laval, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/coquelin.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/coquelin.jpg"
     },
     {
       "name":"Alex Oxlade-Chamberlain",
       "number":"15",
       "position":"Right Wing",
       "birthDate":"August 15, 1993",
-      "age":"22"
+      "age":"22",
       "transferValue":"20,000,000 €",
       "birthPlace":"Portsmouth, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/oxlade_chamberlain.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/oxlade_chamberlain.jpg"
     },
     {
       "name":"Mohamed Elneny",
       "number":"35",
       "position":"Defensive Midfield",
       "birthDate":"July 11, 1992",
-      "age":"24"
+      "age":"24",
       "transferValue":"8,500,000 €",
       "birthPlace":"El-Mahalla El-Kubra, Egypt",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/elneny.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/elneny.jpg"
     },
     {
       "name":"Alexis Sánchez",
       "number":"7",
       "position":"Left Wing",
       "birthDate":"December 19, 1988",
-      "age":"27"
+      "age":"27",
       "transferValue":"55,000,000 €",
       "birthPlace":"Tocopilla, Chile",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/alexis.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/alexis.jpg"
+    },
+    {
+      "name":"Lucas Pérez",
+      "number":"9",
+      "position":"Center Forward",
+      "birthDate":"September 10, 1988",
+      "age":"28",
+      "transferValue":"17,000,000 €",
+      "birthPlace":"A Coruña, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/perez.jpg"
     },
     {
       "name":"Danny Welbeck",
       "number":"23",
       "position":"Left Wing",
       "birthDate":"November 25, 1990",
-      "age":"25"
+      "age":"25",
       "transferValue":"17,000,000 €",
       "birthPlace":"Longsight, Manchester, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/welbeck.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/welbeck.jpg"
     },
     {
       "name":"Oliver Giroud",
       "number":"12",
       "position":"Center Forward",
       "birthDate":"September 30, 1986",
-      "age":"29"
+      "age":"29",
       "transferValue":"25,000,000 €",
       "birthPlace":"Chambéry, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/giroud.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/giroud.jpg"
     },
     {
       "name":"Serge Gnabry",
       "number":"27",
       "position":"Left Wing",
       "birthDate":"July 14, 1995",
-      "age":"21"
+      "age":"21",
       "transferValue":"2,500,000 €",
       "birthPlace":"Stuttgart, Germany",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gabry.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/gabry.jpg"
     },
     {
       "name":"Theo Walcott",
       "number":"14",
       "position":"Right Wing",
       "birthDate":"March 16, 1989",
-      "age":"27"
+      "age":"27",
       "transferValue":"22,000,000 €",
       "birthPlace":"Stanmore, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/walcott.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/walcott.jpg"
     },
     {
       "name":"Joel Campbell",
       "number":"28",
       "position":"Right Wing",
       "birthDate":"June 26, 1992",
-      "age":"24"
+      "age":"24",
       "transferValue":"8,000,000 €",
       "birthPlace":"San José, Costa Rica",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/campbell.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/campbell.jpg"
     },
     {
       "name":"Alex Iwobi",
       "number":"17",
       "position":"Left Wing",
       "birthDate":"May 3, 1996",
-      "age":"20"
+      "age":"20",
       "transferValue":"4,000,000 €",
       "birthPlace":"Lagos, Nigeria",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/iwobi.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/iwobi.jpg"
     },
     {
       "name":"Chuba Akpom",
       "number":"32",
       "position":"Center Forward",
       "birthDate":"October 9, 1993",
-      "age":"23"
+      "age":"23",
       "transferValue":"1,000,000 €",
       "birthPlace":"Canning Town, London, United Kingdom",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/akpom.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/akpom.jpg"
     },
     {
       "name":"Yaya Sonogo",
       "number":"22",
       "position":"Center Forward",
       "birthDate":"January 27, 1993",
-      "age":"23"
+      "age":"23",
       "transferValue":"1,000,000 €",
       "birthPlace":"Massy, Essonne, France",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/sonogo.png"
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/sonogo.jpg"
     }
   ]
 }

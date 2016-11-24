@@ -20,16 +20,6 @@
       "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/schmeichel.png"
     },
     {
-      "name":"Ritchie De Laet",
-      "number":"2",
-      "position":"Right-Back",
-      "birthDate":"November 28, 1988",
-      "age":"27",
-      "transferValue":"2,000,000 €",
-      "birthPlace":"Antwerp, Belgium",
-      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/ritchie.png"
-    },
-    {
       "name":"Danny Drinkwater",
       "number":"4",
       "position":"Center Midfield",
@@ -120,6 +110,16 @@
       "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/amartey.png"
     },
     {
+      "name":"Bartosz Kapustka",
+      "number":"14",
+      "position":"Attacking Midfield",
+      "birthDate":"December 23, 1996",
+      "age":"19",
+      "transferValue":"7,000,000 €",
+      "birthPlace":"Tarnów, Poland",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/kapustka.png"
+    },
+    {
       "name":"Jeffrey Schlupp",
       "number":"15",
       "position":"Left-Back",
@@ -138,6 +138,16 @@
       "transferValue":"5,000,000 €",
       "birthPlace":"Eccles, United Kingdom",
       "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/simpson.png"
+    },
+    {
+      "name":"Islam Slimani",
+      "number":"19",
+      "position":"Center Forward",
+      "birthDate":"June 18, 1988",
+      "age":"28",
+      "transferValue":"25,000,000 €",
+      "birthPlace":"Algiers, Algeria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/arsenal_pl/slimani.png"
     },
     {
       "name":"Liam Moore",
