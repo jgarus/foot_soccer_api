@@ -1,0 +1,303 @@
+{
+  "manager":
+  {
+    "name":"Jürgen Klopp",
+    "position":"Manager",
+    "birthDate":"June 16, 1967",
+    "age":"49",
+    "birthPlace":"Stuttgart, Germany",
+    "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/klopp.jpg"
+  },
+  "players":[
+    {
+      "name":"Loris Karius",
+      "number":"1",
+      "position":"Keeper",
+      "birthDate":"June 22, 1993",
+      "age":"23",
+      "transferValue":"9,000,000 €",
+      "birthPlace":"Biberach an der Riss, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/karius.png"
+    },
+    {
+      "name":"Alex Manninger",
+      "number":"13",
+      "position":"Keeper",
+      "birthDate":"April 6, 1977",
+      "age":"39",
+      "transferValue":"200,000 €",
+      "birthPlace":"Salzburg, Austria",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/manninger.png"
+    },
+    {
+      "name":"Simon Mignolet",
+      "number":"22",
+      "position":"Keeper",
+      "birthDate":"March 6, 1988",
+      "age":"28",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Sint-Truiden, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/mignolet.png"
+    },
+    {
+      "name":"Nathaniel Clyne",
+      "number":"2",
+      "position":"Right Back",
+      "birthDate":"April 5, 1991",
+      "age":"25",
+      "transferValue":"21,000,000 €",
+      "birthPlace":"Stockwell, London, United Kingdom",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/clyne.png"
+    },
+    {
+      "name":"Mamadou Sakho",
+      "number":"3",
+      "position":"Center Back",
+      "birthDate":"Febrary 13, 1990",
+      "age":"26",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Paris, France",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/sakho.png"
+    },
+    {
+      "name":"Dejan Lovren",
+      "number":"6",
+      "position":"Center Back",
+      "birthDate":"July 5, 1989",
+      "age":"27",
+      "transferValue":"15,000,000 €",
+      "birthPlace":"Zenica, Bosnia and Herzegovina",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/lovren.png"
+    },
+    {
+      "name":"Joe Gomez",
+      "number":"12",
+      "position":"Center Back",
+      "birthDate":"May 23, 1997",
+      "age":"19",
+      "transferValue":"3,500,000 €",
+      "birthPlace":"Catford, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/gomez.png"
+    },
+    {
+      "name":"Ragnar, Klavan",
+      "number":"17",
+      "position":"Center Back",
+      "birthDate":"October 30, 1985",
+      "age":"31",
+      "transferValue":"4,000,000 €",
+      "birthPlace":"Vijandi, Estonia",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/klavan.png"
+    },
+    {
+      "name":"Alberto Moreno",
+      "number":"18",
+      "position":"Left Back",
+      "birthDate":"July 5, 1992",
+      "age":"24",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Seville, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/moreno.png"
+    },
+    {
+      "name":"Tiago Ilori",
+      "number":"26",
+      "position":"Center Back",
+      "birthDate":"February 23, 1993",
+      "age":"23",
+      "transferValue":"3,000,000 €",
+      "birthPlace":"Hampstead, England",
+      "playerPicture":""
+    },
+    {
+      "name":"Joël Matip",
+      "number":"32",
+      "position":"Center Back",
+      "birthDate":"August 8, 1991",
+      "age":"25",
+      "transferValue":"18,000,000 €",
+      "birthPlace":"Bochum, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/matip.png"
+    },
+    {
+      "name":"Connor Randall",
+      "number":"56",
+      "position":"Right Back",
+      "birthDate":"October 21, 1995",
+      "age":"21",
+      "transferValue":"500,000 €",
+      "birthPlace":"Kirkby, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/randall.png"
+    },
+    {
+      "name":"Georginio Wijnaldum",
+      "number":"5",
+      "position":"Attacking Midfield",
+      "birthDate":"November 11, 1990",
+      "age":"26",
+      "transferValue":"22,000,000 €",
+      "birthPlace":"Rotterdam, Netherlands",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/wijnaldum.png"
+    },
+    {
+      "name":"James Milner",
+      "number":"7",
+      "position":"Center Midfield",
+      "birthDate":"January 4, 1986",
+      "age":"30",
+      "transferValue":"15,000,000 €",
+      "birthPlace":"Wortley, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/milner.png"
+    },
+    {
+      "name":"Philippe Coutinho",
+      "number":"10",
+      "position":"Attacking Midfield",
+      "birthDate":"June 12, 1992",
+      "age":"24",
+      "transferValue":"35,000,000 €",
+      "birthPlace":"Rio de Janeiro, Rio de Janeiro, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/coutinho.png"
+    },
+    {
+      "name":"Jordan Henderson",
+      "number":"14",
+      "position":"Center Midfield",
+      "birthDate":"June 17, 1990",
+      "age":"26",
+      "transferValue":"28,000,000 €",
+      "birthPlace":"Sunderland, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/henderson.png"
+    },
+    {
+      "name":"Marko Grujić",
+      "number":"16",
+      "position":"Center Midfield",
+      "birthDate":"April 13, 1996",
+      "age":"20",
+      "transferValue":"5,000,000 €",
+      "birthPlace":"Belgrade, Serbia",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/grujic.png"
+    },
+    {
+      "name":"Adam Lallana",
+      "number":"20",
+      "position":"Attacking Midfield",
+      "birthDate":"May 10, 1988",
+      "age":"28",
+      "transferValue":"19,000,000 €",
+      "birthPlace":"St. Albans, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/lallana.png"
+    },
+    {
+      "name":"Lucas Leiva",
+      "number":"21",
+      "position":"Defensive Midfield",
+      "birthDate":"January 9, 1987",
+      "age":"29",
+      "transferValue":"10,000,000 €",
+      "birthPlace":"Dourados, Mato Grosso do Sul, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/leiva.png"
+    },
+    {
+      "name":"Emre Can",
+      "number":"23",
+      "position":"Defensive Midfield",
+      "birthDate":"January 12, 1994",
+      "age":"22",
+      "transferValue":"18,000,000 €",
+      "birthPlace":"Frankfurt, Germany",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/can.png"
+    },
+    {
+      "name":"Cameron Brannagan",
+      "number":"25",
+      "position":"Attacking Midfield",
+      "birthDate":"May 9, 1996",
+      "age":"20",
+      "transferValue":"0 €",
+      "birthPlace":"Manchester, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/brannagan.png"
+    },
+    {
+      "name":"Kevin Stewart",
+      "number":"35",
+      "position":"Defensive Midfield",
+      "birthDate":"September 7, 1993",
+      "age":"23",
+      "transferValue":"1,000,000 €",
+      "birthPlace":"London Borough of Enfield, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/stewart.png"
+    },
+    {
+      "name":"Sheyi Ojo",
+      "number":"54",
+      "position":"Left Wing",
+      "birthDate":"June 19, 1997",
+      "age":"19",
+      "transferValue":"2,000,000 €",
+      "birthPlace":"Hemel Hempstead, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/ojo.png"
+    },
+    {
+      "name":"Pedro Chirivella",
+      "number":"68",
+      "position":"Defensive Midfield",
+      "birthDate":"May 23, 1997",
+      "age":"19",
+      "transferValue":"100,000 €",
+      "birthPlace":"Valencia, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/chirivella.png"
+    },
+    {
+      "name":"Roberto Firmino",
+      "number":"11",
+      "position":"Striker",
+      "birthDate":"October 2, 1991",
+      "age":"25",
+      "transferValue":"35,000,000 €",
+      "birthPlace":"Maceió, Alagoas, Brazil",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/firmino.png"
+    },
+    {
+      "name":"Daniel Sturridge",
+      "number":"15",
+      "position":"Center Forward",
+      "birthDate":"September 1, 1989",
+      "age":"27",
+      "transferValue":"25,000,000 €",
+      "birthPlace":"Birmingham,England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/sturridge.png"
+    },
+    {
+      "name":"Sadio Mané",
+      "number":"19",
+      "position":"Left Wing",
+      "birthDate":"April 10, 1992",
+      "age":"24",
+      "transferValue":"30,000,000 €",
+      "birthPlace":"Sédhiou, Senegal",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/mane.png"
+    },
+    {
+      "name":"Divock Origi",
+      "number":"27",
+      "position":"Center Forward",
+      "birthDate":"April 18, 1995",
+      "age":"21",
+      "transferValue":"11,000,000 €",
+      "birthPlace":"Ostend, Belgium",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/origi.png"
+    },
+    {
+      "name":"Danny Ings",
+      "number":"28",
+      "position":"Center Forward",
+      "birthDate":"July 23, 1992",
+      "age":"24",
+      "transferValue":"12,000,000 €",
+      "birthPlace":"Winchester, England",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/liverpool_pl/Ings.png"
+    }
+  ]
+}
