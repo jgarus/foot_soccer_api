@@ -1,0 +1,262 @@
+{
+   "manager":{
+      "name":"Pep Guardiola",
+      "position":"Manager",
+      "birthDate":"January 18, 1971",
+      "age":"45",
+      "birthPlace":"Santpedor, Spain",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city/guardiola.jpg"
+   },
+   "players":[
+      {
+         "name":"Claudio Bravo",
+         "number":1,
+         "position":"Keeper",
+         "birthDate":"April 13, 1983",
+         "age":33,
+         "transferValue":"15,000,000 €",
+         "birthPlace":"Viluco, Chile",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/bravo.png"
+      },
+      {
+         "name":"Willy Caballero",
+         "number":13,
+         "position":"Keeper",
+         "birthDate":"September 28, 1981",
+         "age":35,
+         "transferValue":"2,000,000 €",
+         "birthPlace":"Santa Elena, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/caballero.png"
+      },
+      {
+         "name":"Angus Gunn",
+         "number":54,
+         "position":"Keeper",
+         "birthDate":"January 22, 1996",
+         "age":20,
+         "transferValue":"250,000 €",
+         "birthPlace":"Nowich, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/gunn.png"
+      },
+      {
+         "name":"Tosin Adarabioyo",
+         "number":53,
+         "position":"Center Back",
+         "birthDate":"September 24, 1997",
+         "age":19,
+         "transferValue":"",
+         "birthPlace":"Manchester, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/adarabioyo.png"
+      },
+      {
+         "name":"Gael Clichy",
+         "number":22,
+         "position":"Left Back",
+         "birthDate":"July 26, 1985",
+         "age":31,
+         "transferValue":"9,000,000 €",
+         "birthPlace":"Toulouse, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/clichy.png"
+      },
+      {
+         "name":"John Stones",
+         "number":24,
+         "position":"Center Back",
+         "birthDate":"May 28, 1994",
+         "age":22,
+         "transferValue":"35,000,000 €",
+         "birthPlace":"Barnsley, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/stones.png"
+      },
+      {
+         "name":"Nicolás Otamendi",
+         "number":30,
+         "position":"Center Back",
+         "birthDate":"February 12, 1988",
+         "age":28,
+         "transferValue":"32,000,000 €",
+         "birthPlace":"Buenos Aires, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/otamendi.png"
+      },
+      {
+         "name":"Aleksandar Kolarov",
+         "number":11,
+         "position":"Left Back",
+         "birthDate":"November 10, 1985",
+         "age":31,
+         "transferValue":"11,000,000 €",
+         "birthPlace":"Zemun, Serbia",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/kolarov.png"
+      },
+      {
+         "name":"Vincent Kompany",
+         "number":4,
+         "position":"Center Back",
+         "birthDate":"April 10, 1986",
+         "age":30,
+         "transferValue":"30,000,000 €",
+         "birthPlace":"Uccle, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/kompany.png"
+      },
+      {
+         "name":"Pablo Maffeo",
+         "number":50,
+         "position":"Right Back",
+         "birthDate":"July 12, 1997",
+         "age":19,
+         "transferValue":"200,000 €",
+         "birthPlace":"Sant Juan Despi, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/maffeo.png"
+      },
+      {
+         "name":"Bacary Sagna",
+         "number":3,
+         "position":"Right Back",
+         "birthDate":"February 14, 1983",
+         "age":33,
+         "transferValue":"8,000,000 €",
+         "birthPlace":"Sens, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/sagna.png"
+      },
+      {
+         "name":"Pablo Zabaleta",
+         "number":5,
+         "position":"Right Back",
+         "birthDate":"January 16, 1985",
+         "age":31,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"Buenos Aires, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/zabaleta.png"
+      },
+      {
+         "name":"İlkay Gündoğan",
+         "number":8,
+         "position":"Center Midfield",
+         "birthDate":"October 24, 1990",
+         "age":26,
+         "transferValue":"30,000,000 €",
+         "birthPlace":"Gelsenkirchen, Germany",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/gundojan.png"
+      },
+      {
+         "name":"Kevin De Bruyne",
+         "number":17,
+         "position":"Attacking Midfield",
+         "birthDate":"June 28, 1991",
+         "age":25,
+         "transferValue":"60,000,000 €",
+         "birthPlace":"Drongen, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/de_bruyne.png"
+      },
+      {
+         "name":"Leroy Sané",
+         "number":19,
+         "position":"Right Wing",
+         "birthDate":"January 11, 1996",
+         "age":20,
+         "transferValue":"30,000,000 €",
+         "birthPlace":"Essen, Germany",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/sane.png"
+      },
+      {
+         "name":"Fabian Delph",
+         "number":18,
+         "position":"Center Midfield",
+         "birthDate":"November 21, 1989",
+         "age":27,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"Bradford, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/delph.png"
+      },
+      {
+         "name":"Fernandinho",
+         "number":25,
+         "position":"Center Midfield",
+         "birthDate":"May 4, 1985",
+         "age":31,
+         "transferValue":"28,000,000 €",
+         "birthPlace":"Londrina, Paraná, Brazil",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/fernandinho.png"
+      },
+      {
+         "name":"Aleix García",
+         "number":75,
+         "position":"Center Midfield",
+         "birthDate":"June 28, 1997",
+         "age":19,
+         "transferValue":"",
+         "birthPlace":"Ulldecona, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/garcia.png"
+      },
+      {
+         "name":"Jesús Navas",
+         "number":15,
+         "position":"Right Wing",
+         "birthDate":"November 21, 1985",
+         "age":31,
+         "transferValue":"20,000,000 €",
+         "birthPlace":"Los Palacios y Villafranca, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/navas.png"
+      },
+      {
+         "name":"David Silva",
+         "number":21,
+         "position":"Attacking Midfield",
+         "birthDate":"January 8, 1986",
+         "age":30,
+         "transferValue":"33,000,000 €",
+         "birthPlace":"Arguineguín, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/silva.png"
+      },
+      {
+         "name":"Raheem Sterling",
+         "number":7,
+         "position":"Left Wing",
+         "birthDate":"December 8, 1994",
+         "age":21,
+         "transferValue":"45,000,000 €",
+         "birthPlace":"Kingston, Jamaica",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/sterling.png"
+      },
+      {
+         "name":"Yaya Touré",
+         "number":42,
+         "position":"Center Midfield",
+         "birthDate":"May 13, 1983",
+         "age":33,
+         "transferValue":"12,000,000 €",
+         "birthPlace":"Bouaké, Côte d’Ivoire",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/toure.png"
+      },
+      {
+         "name":"Nolito",
+         "number":9,
+         "position":"Left Wing",
+         "birthDate":"October 15, 1986",
+         "age":30,
+         "transferValue":"18,000,000 €",
+         "birthPlace":"Sanlúcar de Barrameda, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/nolito.png"
+      },
+      {
+         "name":"Sergio Agüero",
+         "number":10,
+         "position":"Center Forward",
+         "birthDate":"June 2, 1988",
+         "age":28,
+         "transferValue":"60,000,000 €",
+         "birthPlace":"Buenos Aires, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/aguero.png"
+      },
+      {
+         "name":"Kelechi Iheanacho",
+         "number":72,
+         "position":"Center Forward",
+         "birthDate":"October 3, 1996",
+         "age":20,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"Imo State, Nigeria",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_city_pl/iheanacho.png"
+      }
+   ]
+}
