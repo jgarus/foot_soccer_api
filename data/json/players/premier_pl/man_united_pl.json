@@ -1,0 +1,282 @@
+{
+   "manager":{
+      "name":"José Mourinho",
+      "position":"Manager",
+      "birthDate":"January 26, 1963",
+      "age":"53",
+      "birthPlace":"Setúbal, Portugal",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/mourinho.jpg"
+   },
+   "players":[
+      {
+         "name":"David de Gea",
+         "number":1,
+         "position":"Keeper",
+         "birthDate":"November 7, 1990",
+         "age":26,
+         "transferValue":"40,000,000 €",
+         "birthPlace":"Madrid, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/de_gea.png"
+      },
+      {
+         "name":"Sergio Romero",
+         "number":20,
+         "position":"Keeper",
+         "birthDate":"February 22, 1987",
+         "age":29,
+         "transferValue":"5,000,000 €",
+         "birthPlace":"Bernardo de Irigoyen, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/romero.png"
+      },
+      {
+         "name":"Sam Johnstone",
+         "number":32,
+         "position":"Keeper",
+         "birthDate":"March 25, 1993",
+         "age":23,
+         "transferValue":"250,000 €",
+         "birthPlace":"Preston, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/johnstone.png"
+      },
+      {
+         "name":"Eric Bailly",
+         "number":3,
+         "position":"Center Back",
+         "birthDate":"April 12, 1994",
+         "age":23,
+         "transferValue":"25,000,000 €",
+         "birthPlace":"Bingerville, Côte d’Ivoire",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/bailly.png"
+      },
+      {
+         "name":"Daley Blind",
+         "number":17,
+         "position":"Center Back",
+         "birthDate":"March 9, 1990",
+         "age":26,
+         "transferValue":"22,000,000 €",
+         "birthPlace":"Amsterdam, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/blind.png"
+      },
+      {
+         "name":"Matteo Darmian",
+         "number":36,
+         "position":"Right Back",
+         "birthDate":"December 2, 1989",
+         "age":26,
+         "transferValue":"15,000,000 €",
+         "birthPlace":"Legnano, Italy",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/darmian.png"
+      },
+      {
+         "name":"Timothy Fosu-Mensah",
+         "number":24,
+         "position":"Defensive Midfield",
+         "birthDate":"January 2, 1998",
+         "age":18,
+         "transferValue":"1,000,000 €",
+         "birthPlace":"Amsterdam, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/fosu_mensah.png"
+      },
+      {
+         "name":"Phil Jones",
+         "number":4,
+         "position":"Center Back",
+         "birthDate":"February 21, 1992",
+         "age":24,
+         "transferValue":"14,000,000 €",
+         "birthPlace":"Preston, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/jones.png"
+      },
+      {
+         "name":"Marcos Rojo",
+         "number":5,
+         "position":"Center Back",
+         "birthDate":"March 20, 1990",
+         "age":26,
+         "transferValue":"19,000,000 €",
+         "birthPlace":"La Plata, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/rojo.png"
+      },
+      {
+         "name":"Luke Shaw",
+         "number":23,
+         "position":"Left Back",
+         "birthDate":"July 12, 1995",
+         "age":21,
+         "transferValue":"21,000,000 €",
+         "birthPlace":"Kingston Upton Thames, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/shaw.png"
+      },
+      {
+         "name":"Chris Smalling",
+         "number":12,
+         "position":"Center Back",
+         "birthDate":"November 22, 1989",
+         "age":27,
+         "transferValue":"20,000,000 €",
+         "birthPlace":"Greenwich, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/smalling.png"
+      },
+      {
+         "name":"Antonio Valencia",
+         "number":25,
+         "position":"Right Back",
+         "birthDate":"August 4, 1985",
+         "age":31,
+         "transferValue":"8,000,000 €",
+         "birthPlace":"Nueva Loja, Ecuador",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/valencia.png"
+      },
+      {
+         "name":"Michael Carrick",
+         "number":16,
+         "position":"Defensive Midfield",
+         "birthDate":"July 28, 1981",
+         "age":35,
+         "transferValue":"3,000,000 €",
+         "birthPlace":"Wallsend, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/carrick.png"
+      },
+      {
+         "name":"Marouane Fellaini",
+         "number":27,
+         "position":"Center Midfield",
+         "birthDate":"November 22, 1987",
+         "age":29,
+         "transferValue":"15,000,000 €",
+         "birthPlace":"Etterbeek, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/fellaini.png"
+      },
+      {
+         "name":"Ander Herrera",
+         "number":21,
+         "position":"Center Midfield",
+         "birthDate":"August 14, 1989",
+         "age":27,
+         "transferValue":"28,000,000 €",
+         "birthPlace":"Bilbao, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/herrera.png"
+      },
+      {
+         "name":"Jesse Lingard",
+         "number":14,
+         "position":"Left Wing",
+         "birthDate":"December 15, 1992",
+         "age":23,
+         "transferValue":"9,000,000 €",
+         "birthPlace":"Warrington, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/lingard.png"
+      },
+      {
+         "name":"Juan Mata",
+         "number":8,
+         "position":"Attacking Midfield",
+         "birthDate":"April 28, 1988",
+         "age":28,
+         "transferValue":"31,000,000 €",
+         "birthPlace":"Villafranca Montes de Oca, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/mata.png"
+      },
+      {
+         "name":"Henrikh Mkhitaryan",
+         "number":22,
+         "position":"Attacking Midfield",
+         "birthDate":"January 21, 1989",
+         "age":27,
+         "transferValue":"37,000,000 €",
+         "birthPlace":"Yerevan, Armenia",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/mkhitaryan.png"
+      },
+      {
+         "name":"Paul Pogba",
+         "number":6,
+         "position":"Center Midfield",
+         "birthDate":"March 15, 1993",
+         "age":23,
+         "transferValue":"80,000,000 €",
+         "birthPlace":"Lagny-sur-Marne, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/pogba.png"
+      },
+      {
+         "name":"Morgan Schneiderlin",
+         "number":28,
+         "position":"Defensive Midfield",
+         "birthDate":"November 8, 1989",
+         "age":27,
+         "transferValue":"28,000,000 €",
+         "birthPlace":"Zellwiller, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/schneiderlin.png"
+      },
+      {
+         "name":"Bastian Schweinsteiger",
+         "number":31,
+         "position":"Center Midfield",
+         "birthDate":"August 1, 1984",
+         "age":32,
+         "transferValue":"8,000,000 €",
+         "birthPlace":"Kolbermoor, Gemany",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/schweinsteiger.png"
+      },
+      {
+         "name":"Ashley Young",
+         "number":18,
+         "position":"Left Wing",
+         "birthDate":"July 9, 1985",
+         "age":31,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"Stevenage, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/young.png"
+      },
+      {
+         "name":"Memphis Depay",
+         "number":7,
+         "position":"Left Wing",
+         "birthDate":"February 13, 1994",
+         "age":22,
+         "transferValue":"25,000,000 €",
+         "birthPlace":"Moordrecht, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/depay.png"
+      },
+      {
+         "name":"Zlatan Ibrahimović",
+         "number":9,
+         "position":"Center Forward",
+         "birthDate":"October 3, 1981",
+         "age":35,
+         "transferValue":"12,000,000 €",
+         "birthPlace":"Malmö, Sweden",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/ibrahimovic.png"
+      },
+      {
+         "name":"Anthony Martial",
+         "number":11,
+         "position":"Center Forward",
+         "birthDate":"December 5, 1995",
+         "age":20,
+         "transferValue":"32,000,000 €",
+         "birthPlace":"Massy Essonne, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/martial.png"
+      },
+      {
+         "name":"Marcus Rashford",
+         "number":19,
+         "position":"Center Forward",
+         "birthDate":"October 31, 1997",
+         "age":19,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"Manchester, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/rashford.png"
+      },
+      {
+         "name":"Wayne Rooney",
+         "number":10,
+         "position":"Striker",
+         "birthDate":"October 24, 1985",
+         "age":31,
+         "transferValue":"30,000,000 €",
+         "birthPlace":"Croxteth, Liverpool, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/man_united_pl/rooney.png"
+      }
+   ]
+}

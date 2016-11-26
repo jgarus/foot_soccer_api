@@ -1,0 +1,252 @@
+{
+   "manager":{
+      "name":"Ronald Koeman",
+      "position":"Manager",
+      "birthDate":"March 21, 1963",
+      "age":"53",
+      "birthPlace":"Zaandam, Netherlands",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/koeman.jpg"
+   },
+   "players":[
+      {
+         "name":"Joel Robles",
+         "number":1,
+         "position":"Keeper",
+         "birthDate":"June 17, 1990",
+         "age":26,
+         "transferValue":"5,000,000 €",
+         "birthPlace":"Getafe, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/robles.jpg"
+      },
+      {
+         "name":"Leighton Baines",
+         "number":3,
+         "position":"Left Back",
+         "birthDate":"December 11, 1984",
+         "age":31,
+         "transferValue":"13,000,000 €",
+         "birthPlace":"Kirkby, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/baines.jpg"
+      },
+      {
+         "name":"Darron Gibson",
+         "number":4,
+         "position":"Center Midfield",
+         "birthDate":"October 25, 1987",
+         "age":29,
+         "transferValue":"1,500,000 €",
+         "birthPlace":"Derry, Ireland",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/gibson.jpg"
+      },
+      {
+         "name":"Ashley Williams",
+         "number":5,
+         "position":"Center Back",
+         "birthDate":"August 23, 1984",
+         "age":32,
+         "transferValue":"8,000,000 €",
+         "birthPlace":"Wolverhampton, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/baines.jpg"
+      },
+      {
+         "name":"Phil Jagielka",
+         "number":6,
+         "position":"Center Back",
+         "birthDate":"August 17, 1982",
+         "age":34,
+         "transferValue":"3,500,000 €",
+         "birthPlace":"Manchester, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/jagielka.jpg"
+      },
+      {
+         "name":"Gerard Deulofeu",
+         "number":7,
+         "position":"Right Wing",
+         "birthDate":"March 3, 1994",
+         "age":22,
+         "transferValue":"9,000,000 €",
+         "birthPlace":"Riudarenes, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/deulofeu.jpg"
+      },
+      {
+         "name":"Ross Barkley",
+         "number":8,
+         "position":"Attacking Midfield",
+         "birthDate":"December 5, 1993",
+         "age":22,
+         "transferValue":"22,000,000 €",
+         "birthPlace":"Liverpool, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/barkley.jpg"
+      },
+      {
+         "name":"Arouna Koné",
+         "number":9,
+         "position":"Center Forward",
+         "birthDate":"November 11, 1983",
+         "age":33,
+         "transferValue":"2,500,000 €",
+         "birthPlace":"Anyama, Côte d’Ivoire",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/kone.jpg"
+      },
+      {
+         "name":"Romelu Lukaku",
+         "number":10,
+         "position":"Center Forward",
+         "birthDate":"May 13, 1993",
+         "age":23,
+         "transferValue":"40,000,000 €",
+         "birthPlace":"Antwerp, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/lukaku.jpg"
+      },
+      {
+         "name":"Kevin Mirallas",
+         "number":11,
+         "position":"Right Wing",
+         "birthDate":"October 5, 1987",
+         "age":29,
+         "transferValue":"13,000,000 €",
+         "birthPlace":"Liège, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/mirallas.jpg"
+      },
+      {
+         "name":"Aaron Lennon",
+         "number":12,
+         "position":"Right Wing",
+         "birthDate":"April 16, 1987",
+         "age":29,
+         "transferValue":"6,000,000 €",
+         "birthPlace":"Leeds, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/lennon.jpg"
+      },
+      {
+         "name":"Yannik Bolasie",
+         "number":14,
+         "position":"Left Wing",
+         "birthDate":"May 24, 1989",
+         "age":27,
+         "transferValue":"20,000,000 €",
+         "birthPlace":"Lyon, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/bolasie.jpg"
+      },
+      {
+         "name":"Tom Cleverley",
+         "number":15,
+         "position":"Center Midfield",
+         "birthDate":"August 12, 1989",
+         "age":27,
+         "transferValue":"9,000,000 €",
+         "birthPlace":"Basingstoke, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/cleverley.jpg"
+      },
+      {
+         "name":"James McCarthy",
+         "number":16,
+         "position":"Center Midfield",
+         "birthDate":"November 12, 1990",
+         "age":26,
+         "transferValue":"17,000,000 €",
+         "birthPlace":"Glasgow, Scotland",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/mccarthy.jpg"
+      },
+      {
+         "name":"Idrissa Gueye",
+         "number":17,
+         "position":"Center Midfield",
+         "birthDate":"September 6, 1989",
+         "age":27,
+         "transferValue":"11,000,000 €",
+         "birthPlace":"Dakar, Senegal",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/gueye.jpg"
+      },
+      {
+         "name":"Gareth Barry",
+         "number":18,
+         "position":"Defensive Midfield",
+         "birthDate":"February 23, 1981",
+         "age":35,
+         "transferValue":"2,000,000 €",
+         "birthPlace":"Hastings, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/barry.jpg"
+      },
+      {
+         "name":"Enner Valencia",
+         "number":19,
+         "position":"Center Forward",
+         "birthDate":"November 4, 1989",
+         "age":27,
+         "transferValue":"10,000,000 €",
+         "birthPlace":"San Lorenzo, Ecuador",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/valencia.jpg"
+      },
+      {
+         "name":"Bryan Oviedo",
+         "number":20,
+         "position":"Left Back",
+         "birthDate":"February 18, 1990",
+         "age":26,
+         "transferValue":"3,000,000 €",
+         "birthPlace":"Quesada, Costa Rica",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/oviedo.jpg"
+      },
+      {
+         "name":"Muhamed Bešić",
+         "number":21,
+         "position":"Defensive Midfield",
+         "birthDate":"September 10, 1992",
+         "age":24,
+         "transferValue":"6,000,000 €",
+         "birthPlace":"Berlin, Germany",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/besic.jpg"
+      },
+      {
+         "name":"Maarten Stekelenburg",
+         "number":22,
+         "position":"Keeper",
+         "birthDate":"September 22, 1982",
+         "age":34,
+         "transferValue":"2,000,000 €",
+         "birthPlace":"Haarlem, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/stekelenburg.jpg"
+      },
+      {
+         "name":"Seamus Coleman",
+         "number":23,
+         "position":"Right Back",
+         "birthDate":"October 11, 1988",
+         "age":28,
+         "transferValue":"17,000,000 €",
+         "birthPlace":"Killybegs, Ireland",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/coleman.jpg"
+      },
+      {
+         "name":"Ramiro Funes Mori",
+         "number":25,
+         "position":"Center Back",
+         "birthDate":"March 5, 1991",
+         "age":25,
+         "transferValue":"12,000,000 €",
+         "birthPlace":"Mendoza, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/funes_mori.jpg"
+      },
+      {
+         "name":"Tyias Browning",
+         "number":27,
+         "position":"Right Back",
+         "birthDate":"May 27, 1994",
+         "age":22,
+         "transferValue":"1,000,000 €",
+         "birthPlace":"Liverpool, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/browning.jpg"
+      },
+      {
+         "name":"Mason Holgate",
+         "number":30,
+         "position":"Center Back",
+         "birthDate":"October 22, 1996",
+         "age":20,
+         "transferValue":"1,000,000 €",
+         "birthPlace":"Doncaster, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/everton_pl/holgate.jpg"
+      }
+   ]
+}

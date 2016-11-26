@@ -1,0 +1,262 @@
+{
+   "manager":{
+      "name":"Mauricio Pochettino",
+      "position":"Manager",
+      "birthDate":"March 2, 1972",
+      "age":"44",
+      "birthPlace":"Murphy, Santa Fe, Argentina",
+      "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/pochettino.jpg"
+   },
+   "players":[
+      {
+         "name":"Hugo Lloris",
+         "number":1,
+         "position":"Keeper",
+         "birthDate":"December 26, 1986",
+         "age":29,
+         "transferValue":"24,000,000 €",
+         "birthPlace":"Nice, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/lloris.png"
+      },
+      {
+         "name":"Michel Vorm",
+         "number":13,
+         "position":"Keeper",
+         "birthDate":"October 20, 1983",
+         "age":33,
+         "transferValue":"5,000,000 €",
+         "birthPlace":"Nieuwegein, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/vorm.png"
+      },
+      {
+         "name":"Pau López",
+         "number":30,
+         "position":"Keeper",
+         "birthDate":"December 13, 1994",
+         "age":21,
+         "transferValue":"1,500,000 €",
+         "birthPlace":"Girona, Spain",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/lopez.png"
+      },
+      {
+         "name":"Kyle Walker",
+         "number":2,
+         "position":"Right Back",
+         "birthDate":"May 28, 1990",
+         "age":26,
+         "transferValue":"15,000,000 €",
+         "birthPlace":"Sheffield, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/walker.png"
+      },
+      {
+         "name":"Danny Rose",
+         "number":3,
+         "position":"Left Back",
+         "birthDate":"July 2, 1990",
+         "age":26,
+         "transferValue":"14,000,000 €",
+         "birthPlace":"Doncaster, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/rose.png"
+      },
+      {
+         "name":"Toby Alderweireld",
+         "number":4,
+         "position":"Center Back",
+         "birthDate":"March 2, 1989",
+         "age":27,
+         "transferValue":"27,000,000 €",
+         "birthPlace":"Wilrijk, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/alderweireld.png"
+      },
+      {
+         "name":"Jan Vertonghen",
+         "number":5,
+         "position":"Center Back",
+         "birthDate":"April 24, 1987",
+         "age":29,
+         "transferValue":"23,000,000 €",
+         "birthPlace":"Sint-Niklaas, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/vertonghen.png"
+      },
+      {
+         "name":"Heu-Min Son",
+         "number":7,
+         "position":"Left Wing",
+         "birthDate":"July 8, 1993",
+         "age":23,
+         "transferValue":"25,000,000 €",
+         "birthPlace":"Chuncheon, South Korea",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/son.png"
+      },
+      {
+         "name":"Vincent Janssen",
+         "number":9,
+         "position":"Center Forward",
+         "birthDate":"June 15, 1994",
+         "age":22,
+         "transferValue":"14,000,000 €",
+         "birthPlace":"Heesch, Netherlands",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/janssen.png"
+      },
+      {
+         "name":"Harry Kane",
+         "number":10,
+         "position":"Center Forward",
+         "birthDate":"July 28, 1993",
+         "age":23,
+         "transferValue":"40,000,000 €",
+         "birthPlace":"London, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/kane.png"
+      },
+      {
+         "name":"Érik Lamela",
+         "number":11,
+         "position":"Right Wing",
+         "birthDate":"March 4, 1992",
+         "age":24,
+         "transferValue":"26,000,000 €",
+         "birthPlace":"Carapachay, Argentina",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/lamela.png"
+      },
+      {
+         "name":"Victor Wanyama",
+         "number":12,
+         "position":"Defensive Midfield",
+         "birthDate":"June 25, 1991",
+         "age":25,
+         "transferValue":"15,000,000 €",
+         "birthPlace":"Nairobi, Kenya",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/wanyama.png"
+      },
+      {
+         "name":"Versailles, Yvelines, Georges-Kévin N'Koudou",
+         "number":14,
+         "position":"Left Wing",
+         "birthDate":"February 13, 1995",
+         "age":21,
+         "transferValue":"8,000,000 €",
+         "birthPlace":"Versailles, Yvelines, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/nkoudou.png"
+      },
+      {
+         "name":"Eric Dier",
+         "number":15,
+         "position":"Defensive Midfield",
+         "birthDate":"January 15, 1994",
+         "age":22,
+         "transferValue":"18,000,000 €",
+         "birthPlace":"Cheltenham, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/dier.png"
+      },
+      {
+         "name":"Kieran Trippier",
+         "number":16,
+         "position":"Right Back",
+         "birthDate":"September 19, 1990",
+         "age":26,
+         "transferValue":"6,000,000 €",
+         "birthPlace":"Bury, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/trippier.png"
+      },
+      {
+         "name":"Moussa Sissoko",
+         "number":17,
+         "position":"Center Midfield",
+         "birthDate":"August 16, 1989",
+         "age":27,
+         "transferValue":"20,000,000 €",
+         "birthPlace":"Le Blanc-Mesnil, France",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/sissoko.png"
+      },
+      {
+         "name":"Mousa Dembélé",
+         "number":19,
+         "position":"Center Midfield",
+         "birthDate":"July 16, 1987",
+         "age":29,
+         "transferValue":"18,000,000 €",
+         "birthPlace":"Wilrijk, Belgium",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/dembele.png"
+      },
+      {
+         "name":"Dele Alli",
+         "number":20,
+         "position":"Center Midfield",
+         "birthDate":"April 11, 1996",
+         "age":20,
+         "transferValue":"20,000,000 €",
+         "birthPlace":"Milton Keynes, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/alli.png"
+      },
+      {
+         "name":"Christian Eriksen",
+         "number":23,
+         "position":"Attacking Midfield",
+         "birthDate":"February 14, 1992",
+         "age":24,
+         "transferValue":"31,000,000 €",
+         "birthPlace":"Middelfart, Denmark",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/eriksen.png"
+      },
+      {
+         "name":"Joshua Onomah",
+         "number":25,
+         "position":"Attacking Midfield",
+         "birthDate":"April 27, 1997",
+         "age":19,
+         "transferValue":"2,000,000 €",
+         "birthPlace":"London, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/onomah.png"
+      },
+      {
+         "name":"Kevin Wimmer",
+         "number":27,
+         "position":"Center Back",
+         "birthDate":"November 15, 1992",
+         "age":24,
+         "transferValue":"7,000,000 €",
+         "birthPlace":"Wels, Austria",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/wimmer.png"
+      },
+      {
+         "name":"Thomas Carroll",
+         "number":28,
+         "position":"Center Midfield",
+         "birthDate":"May 28, 1992",
+         "age":24,
+         "transferValue":"5,000,000 €",
+         "birthPlace":"Watford, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/carroll.png"
+      },
+      {
+         "name":"Harry Winks",
+         "number":29,
+         "position":"Center Midfield",
+         "birthDate":"February 2, 1996",
+         "age":20,
+         "transferValue":"1,000,000 €",
+         "birthPlace":"Hemel Hempstead, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/winks.png"
+      },
+      {
+         "name":"Ben Davies",
+         "number":33,
+         "position":"Left Back",
+         "birthDate":"April 24, 1993",
+         "age":23,
+         "transferValue":"9,000,000 €",
+         "birthPlace":"Neath, Wales",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/davies.png"
+      },
+      {
+         "name":"Cameron Carter-Vickers",
+         "number":38,
+         "position":"Center Back",
+         "birthDate":"December 31, 1997",
+         "age":18,
+         "transferValue":"500,000 €",
+         "birthPlace":"Southend, England",
+         "playerPicture":"https://topseven7.herokuapp.com/images/players/premier_pl/tottenham_pl/carter_vickers.png"
+      }
+   ]
+}
