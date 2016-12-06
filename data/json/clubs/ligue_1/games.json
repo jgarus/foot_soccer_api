@@ -1,0 +1,346 @@
+﻿[
+  {
+    "Name": "Wii Sports",
+    "Platform": "Wii",
+    "Year": 2006,
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "NA_Sales": 41.49
+  },
+  {
+    "Name": "Super Mario Bros.",
+    "Platform": "NES",
+    "Year": 1985,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 29.08
+  },
+  {
+    "Name": "Mario Kart Wii",
+    "Platform": "Wii",
+    "Year": 2008,
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 15.85
+  },
+  {
+    "Name": "Wii Sports Resort",
+    "Platform": "Wii",
+    "Year": 2009,
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "NA_Sales": 15.75
+  },
+  {
+    "Name": "Pokemon Red/Pokemon Blue",
+    "Platform": "GB",
+    "Year": 1996,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 11.27
+  },
+  {
+    "Name": "Tetris",
+    "Platform": "GB",
+    "Year": 1989,
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "NA_Sales": 23.2
+  },
+  {
+    "Name": "New Super Mario Bros.",
+    "Platform": "DS",
+    "Year": 2006,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 11.38
+  },
+  {
+    "Name": "Wii Play",
+    "Platform": "Wii",
+    "Year": 2006,
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "NA_Sales": 14.03
+  },
+  {
+    "Name": "New Super Mario Bros. Wii",
+    "Platform": "Wii",
+    "Year": 2009,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 14.59
+  },
+  {
+    "Name": "Duck Hunt",
+    "Platform": "NES",
+    "Year": 1984,
+    "Genre": "Shooter",
+    "Publisher": "Nintendo",
+    "NA_Sales": 26.93
+  },
+  {
+    "Name": "Nintendogs",
+    "Platform": "DS",
+    "Year": 2005,
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "NA_Sales": 9.07
+  },
+  {
+    "Name": "Mario Kart DS",
+    "Platform": "DS",
+    "Year": 2005,
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 9.81
+  },
+  {
+    "Name": "Pokemon Gold/Pokemon Silver",
+    "Platform": "GB",
+    "Year": 1999,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 9
+  },
+  {
+    "Name": "Wii Fit",
+    "Platform": "Wii",
+    "Year": 2007,
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "NA_Sales": 8.94
+  },
+  {
+    "Name": "Wii Fit Plus",
+    "Platform": "Wii",
+    "Year": 2009,
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "NA_Sales": 9.09
+  },
+  {
+    "Name": "Kinect Adventures!",
+    "Platform": "X360",
+    "Year": 2010,
+    "Genre": "Misc",
+    "Publisher": "Microsoft Game Studios",
+    "NA_Sales": 14.97
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PS3",
+    "Year": 2013,
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "NA_Sales": 7.01
+  },
+  {
+    "Name": "Grand Theft Auto: San Andreas",
+    "Platform": "PS2",
+    "Year": 2004,
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "NA_Sales": 9.43
+  },
+  {
+    "Name": "Super Mario World",
+    "Platform": "SNES",
+    "Year": 1990,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 12.78
+  },
+  {
+    "Name": "Brain Age: Train Your Brain in Minutes a Day",
+    "Platform": "DS",
+    "Year": 2005,
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "NA_Sales": 4.75
+  },
+  {
+    "Name": "Pokemon Diamond/Pokemon Pearl",
+    "Platform": "DS",
+    "Year": 2006,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 6.42
+  },
+  {
+    "Name": "Super Mario Land",
+    "Platform": "GB",
+    "Year": 1989,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 10.83
+  },
+  {
+    "Name": "Super Mario Bros. 3",
+    "Platform": "NES",
+    "Year": 1988,
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "NA_Sales": 9.54
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "X360",
+    "Year": 2013,
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "NA_Sales": 9.63
+  },
+  {
+    "Name": "Grand Theft Auto: Vice City",
+    "Platform": "PS2",
+    "Year": 2002,
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "NA_Sales": 8.41
+  },
+  {
+    "Name": "Pokemon Ruby/Pokemon Sapphire",
+    "Platform": "GBA",
+    "Year": 2002,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 6.06
+  },
+  {
+    "Name": "Pokemon Black/Pokemon White",
+    "Platform": "DS",
+    "Year": 2010,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 5.57
+  },
+  {
+    "Name": "Brain Age 2: More Training in Minutes a Day",
+    "Platform": "DS",
+    "Year": 2005,
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "NA_Sales": 3.44
+  },
+  {
+    "Name": "Gran Turismo 3: A-Spec",
+    "Platform": "PS2",
+    "Year": 2001,
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "NA_Sales": 6.85
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 3",
+    "Platform": "X360",
+    "Year": 2011,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 9.03
+  },
+  {
+    "Name": "PokÃ©mon Yellow: Special Pikachu Edition",
+    "Platform": "GB",
+    "Year": 1998,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 5.89
+  },
+  {
+    "Name": "Call of Duty: Black Ops",
+    "Platform": "X360",
+    "Year": 2010,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 9.67
+  },
+  {
+    "Name": "Pokemon X/Pokemon Y",
+    "Platform": "3DS",
+    "Year": 2013,
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 5.17
+  },
+  {
+    "Name": "Call of Duty: Black Ops 3",
+    "Platform": "PS4",
+    "Year": 2015,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 5.77
+  },
+  {
+    "Name": "Call of Duty: Black Ops II",
+    "Platform": "PS3",
+    "Year": 2012,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 4.99
+  },
+  {
+    "Name": "Call of Duty: Black Ops II",
+    "Platform": "X360",
+    "Year": 2012,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 8.25
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 2",
+    "Platform": "X360",
+    "Year": 2009,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 8.52
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 3",
+    "Platform": "PS3",
+    "Year": 2011,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 5.54
+  },
+  {
+    "Name": "Grand Theft Auto III",
+    "Platform": "PS2",
+    "Year": 2001,
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "NA_Sales": 6.99
+  },
+  {
+    "Name": "Super Smash Bros. Brawl",
+    "Platform": "Wii",
+    "Year": 2008,
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "NA_Sales": 6.75
+  },
+  {
+    "Name": "Call of Duty: Black Ops",
+    "Platform": "PS3",
+    "Year": 2010,
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "NA_Sales": 5.98
+  },
+  {
+    "Name": "Animal Crossing: Wild World",
+    "Platform": "DS",
+    "Year": 2005,
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "NA_Sales": 2.55
+  },
+  {
+    "Name": "Mario Kart 7",
+    "Platform": "3DS",
+    "Year": 2011,
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "NA_Sales": 4.74
+  }
+]
