@@ -1,4 +1,4 @@
-# topseven7_api
+# foot_soccer_api
 The images and data found here were scraped from the web and formatted to create a simple REST API.  Use it to test
 your app. 
 
